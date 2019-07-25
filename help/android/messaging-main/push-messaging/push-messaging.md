@@ -54,13 +54,20 @@ To use push messaging, you **must** have SDK version 4.6 or later.
 
    Here are the requirements to enable push click-through reporting:
 
-    * In your implementation of `GCMListenerService`, the Bundle object that contains the message data, which is passed into the `onMessageReceived` method, must be added to the Intent that is used to open the target activity on a click-through. This can be done using the `putExtras` method. For more information, see [putExtras](https://developer.android.com/reference/android/content/Intent.html#putExtras(android.os.Bundle))). 
-  
+    * In your implementation of `FireBaseMessageService`, the Bundle object that contains the message data, which is passed into the `onMessageReceived` method with the RemoteMessage object, must be added to the Intent that is used to open the target activity on a click-through. This can be done using the `putExtras` method. For more information, see [putExtras](https://developer.android.com/reference/android/content/Intent.html#putExtras(android.os.Bundle))). 
+    
+     ```java
+  Intent intent = new Intent(this, MainActivity.class);
+     intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+  // get the bundle from the RemoteMessage object
+     intent.putExtras(message.toIntent().getExtras());
+  ```
+     
     * In the target activity of the clickthrough, the activity must be passed into the SDK with the `collectLifecycleData` call.
-
+   
       Remember the following information:
-
+   
       * Use `Config.collectLifecycleData(this)` or `Config.collectLifecycleData(this, contextData)`. 
-
+   
       * Do **not** use `Config.collectLifecycleData()`.
 
