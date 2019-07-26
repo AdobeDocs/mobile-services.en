@@ -1,10 +1,10 @@
 ---
-description: You can configure your app to use Apple Push Notification Service (APNS) or Google Cloud Messaging (GCM).
+description: You can configure your app to use Apple Push Notification Service (APNS) or Firebase Cloud Messaging (FCM).
 keywords: mobile
-seo-description: You can configure your app to use Apple Push Notification Service (APNS) or Google Cloud Messaging (GCM).
-seo-title: Configure App to use APNS or GCM
+seo-description: You can configure your app to use Apple Push Notification Service (APNS) or Firebase Cloud Messaging (FCM).
+seo-title: Configure App to use APNS or FCM
 solution: Marketing Cloud,Analytics
-title: Configure App to use APNS or GCM
+title: Configure App to use APNS or FCM
 topic: Metrics
 uuid: fa411f2a-ba47-4499-bbe5-1aedef6b49ad
 ---
