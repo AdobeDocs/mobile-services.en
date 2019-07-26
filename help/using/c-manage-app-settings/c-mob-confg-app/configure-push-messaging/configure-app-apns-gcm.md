@@ -9,50 +9,71 @@ topic: Metrics
 uuid: fa411f2a-ba47-4499-bbe5-1aedef6b49ad
 ---
 
-# Configure your app to use APNS or GCM{#configure-app-to-use-apns-or-gcm}
+# Configure your app to use APNS or FCM{#configure-app-to-use-apns-or-fcm}
 
-You can configure your app to use Apple Push Notification Service (APNS) or Google Cloud Messaging (GCM).
+You can configure your app to use Apple Push Notification Service (APNS) or Firebase Cloud Messaging (FCM).
 
 ## Android Apps {#section_41D304102CDF4586911EC1413AD35A10}
 
-### If GCM is not enabled in your app
+### If FCM is not enabled in your app
 
-To configure your Android app to use GCM in this scenario:
+To configure your Android app to use FCM in this scenario:
 
-1. Go to [https://developers.google.com/mobile/add](https://developers.google.com/mobile/add) and log in with your [Google Dev credentials](https://developers.google.com/mobile/add). 
+1. Go to [https://firebase.google.com/](https://firebase.google.com/) and log in with your Google Dev credentials.
 
-1. Click **[!UICONTROL Pick a Platform]** and select **[!UICONTROL Android App]**. 
-1. Select the app and the app package name. 
-1. Complete the process to enable Google services for your Android app. 
-1. Click **[!UICONTROL Choose and Configure Services]**. 
-1. Add Cloud Messaging by clicking the **[!UICONTROL +]** button on its icon. 
-1. Click **[!UICONTROL Generate Configuration Files]**. 
-1. Copy the **[!UICONTROL Server API key]** and **[!UICONTROL Sender ID]** for later use.
+1. Click **[!UICONTROL Get Started]** and select **[!UICONTROL Add Project]**.
+
+1. Enter a project name and if opting in to Google Analytics for Firebase data, click the checkbox accepting the controller-controller terms.
+
+1. Click **[!UICONTROL Create project]** and wait for the project to be created.
+
+1. Click on the created project and the **[!UICONTROL Project Overview]** page for the created project should be shown. Click the button with the Android icon to add an Android app to the project.
+
+1. Enter the app package name, app nickname, and signing certificate if needed.
+
+1. Follow the additional steps suggested by the setup wizard. After verifying the Firebase setup by testing communication with the Firebase servers, return to the **[!UICONTROL Project Overview]** page.
+
+1. Click the gear icon to the right of the **[!UICONTROL Project Overview]** button and click **[!UICONTROL Project Settings]**.
+
+1. Click the **[!UICONTROL Cloud Messaging]** tab. 
+
+1. Copy the **[!UICONTROL Legacy server key]** and **[!UICONTROL Sender ID]** for later use.
 
    For example:
 
    ```
-    - API Key = AIzaSyC6FNgsCOpBL5eXhDvwf8979mWba6x7Roo
+   - Legacy server key = AIzaSyC6FNgsCOpBL5eXhDvwf8979mWba6x7Roo
    ```
 
    ```
    - Sender ID = 835015092250
    ```
 
-### If GCM is enabled in your app
+### If FCM is enabled in your app
 
-To configure your Android app to use GCM in this scenario:
+To configure your Android app to use FCM in this scenario:
 
-1. Go to [https://console.developers.google.com/project](https://console.developers.google.com/project). 
-1. Select your GCM-enabled app. 
-1. Write down the **[!UICONTROL Project number]** in the **[!UICONTROL Overview]** section. 
+1. Go to [https://firebase.google.com/](https://firebase.google.com/) and log in with your Google Dev credentials.
 
-   This is the GCM Sender ID for the app. For example, `- Project Number = 835015092250`.
+1. Click **[!UICONTROL Get Started]**. This will open the project index page. Find the Firebase enabled project which is linked to your Android app and click the project card.
 
-1. Under the **[!UICONTROL APIs & Auth]** header, select **[!UICONTROL Credentials]**. 
-1. Copy the API Key under the **[!UICONTROL Public API access]** section for use later.
+1. The **[!UICONTROL Project Overview]** for the project should then be loaded. Click the gear icon to the right of the **[!UICONTROL Project Overview]** button and click **[!UICONTROL Project Settings]**.
 
-   For example, `- API Key = AIzaSyC6FNgsCOpBL5eXhDvwf8979mWba6x7Roo`.
+1. Click the **[!UICONTROL Cloud Messaging]** tab. 
+
+1. Copy the **[!UICONTROL Legacy server key]** and **[!UICONTROL Sender ID]** for later use.
+
+   For example:
+
+   ```
+   - Legacy server key = AIzaSyC6FNgsCOpBL5eXhDvwf8979mWba6x7Roo
+   ```
+
+   ```
+   - Sender ID = 835015092250
+   ```
+
+### 
 
 ## iOS apps {#section_2031DAB485FC4D2B9027E42AD90B294D}
 
