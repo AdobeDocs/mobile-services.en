@@ -40,7 +40,7 @@ Where the following conditions have been met:
 
 * `{mobile-services-app-hash}` matches the application identifier in the configuration `acquisition:appid ` file.
 
-  You can locate `{mobile-services-app-has}` in the Manage App Settings page under Acquisition SDK Options in the Tracking ID field.
+  You can locate `{mobile-services-app-hash}` in the Manage App Settings page under Acquisition SDK Options in the Tracking ID field.
 
   ![](assets/tracking-id.png)
 
