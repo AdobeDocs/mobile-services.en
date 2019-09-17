@@ -73,6 +73,7 @@ To download the SDK:
 
       * **iOS App Targets**
         * `SystemConfiguration.framework`
+        * `Webkit.framework`
         * `libsqlite3.0.tbd`
         * `AdobeMobileLibrary.a`
 
