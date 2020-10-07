@@ -36,5 +36,4 @@ Learn more at [Adobe Mobile services documentation](/help/using/home.md).
 
 >[!IMPORTANT]
 >
->As of **April 30, 2017**, Adobe Bloodhound has been
-sunset. Starting on May 1, 2017, no additional enhancements and no additional Engineering or Adobe Expert Care support will be provided. 
+>As of **April 30, 2017**, Adobe Bloodhound has been sunset. Starting on May 1, 2017, no additional enhancements and no additional Engineering or Adobe Expert Care support will be provided. 

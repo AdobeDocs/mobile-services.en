@@ -55,5 +55,4 @@ For the latest information about Experience Cloud releases, see [Experience Clou
 
 >[!IMPORTANT]
 >
->As of **April 30, 2017**, Adobe Bloodhound has been
-sunset. Starting on May 1, 2017, no additional enhancements and no additional Engineering or Adobe Expert Care support will be provided. 
+>As of **April 30, 2017**, Adobe Bloodhound has been sunset. Starting on May 1, 2017, no additional enhancements and no additional Engineering or Adobe Expert Care support will be provided. 

@@ -27,8 +27,8 @@ As of September 2018, we released a new, major version of the SDK. These new Ado
 In the SDKs, identifiers are used to track users, and here is the hierarchy of identifiers:
 
 1. Custom Visitor Identifier (VID)
-2. Analytics Tracking Identifier (AID)
-3. Experience Cloud Identifier (MID)
+1. Analytics Tracking Identifier (AID)
+1. Experience Cloud Identifier (MID)
 
 >[!TIP]
 >

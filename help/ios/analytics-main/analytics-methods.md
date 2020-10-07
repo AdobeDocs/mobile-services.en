@@ -293,7 +293,7 @@ Each of these methods is used to send data into your Adobe Analytics report suit
 
   Clears all hits from the offline queue. 
 
-   >[!CAUTION]
+  >[!CAUTION]
   >
   >Use caution when clearing the queue manually. This process cannot be reversed. 
 
