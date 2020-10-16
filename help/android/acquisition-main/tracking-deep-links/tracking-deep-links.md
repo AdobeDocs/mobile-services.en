@@ -9,7 +9,7 @@ topic: Developer and implementation
 uuid: ebb1c08c-a246-40b3-9ac6-4606a14b4c5a
 ---
 
-# Tracking deep links {#tracking-deep-links}
+# Tracking deep links
 
 You can use this information to track deep and deferred deep links in your mobile apps by using the Adobe Mobile Android SDK.
 
