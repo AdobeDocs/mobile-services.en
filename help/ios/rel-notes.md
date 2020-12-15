@@ -12,6 +12,12 @@ uuid: e1613dc5-02a4-43a7-997a-29b4de98b4d1
 
 Here is the release notes, known issues, and hot fix information for iOS SDKs 4.x for Experience Cloud Solutions:
 
+**December 15, 2020: Version 4.21.0**
+
+* General - The SDK is now distributed using XCFrameworks in order to support hardware with the new Apple M1 architecture while maintaining support for existing Intel architecture.
+  * IMPORTANT: Upgrading to AdobeMobile XCFrameworks requires Xcode 12.0 or newer
+  * IMPORTANT: If using Cocoapods, upgrading to AdobeMobile XCFrameworks requires Cocoapods 1.10.0 or newer
+
 **November 4, 2020: Version 4.20.0**
 
 * Visitor ID Service - Added device_consent status parameter when setAdvertisingIdentifier is called after ad tracking is enabled/disabled.
@@ -59,7 +65,7 @@ Here is the release notes, known issues, and hot fix information for iOS SDKs 4.
 
 * Adobe Target: All requests now include the client and the `sessionId` in the URL query parameters.
 * Adobe Target: Fixed a memory leak.
-* Visitor ID Service: The `visitorAppendToURL` and `visitorGetUrlVariablesAsync` APIs no longer double-encode their return values. 
+* Visitor ID Service: The `visitorAppendToURL` and `visitorGetUrlVariablesAsync` APIs no longer double-encode their return values.
 
   The double-encoding was causing the return values from those APIs to be flagged by certain security reviews.
 
@@ -69,9 +75,9 @@ Here is the release notes, known issues, and hot fix information for iOS SDKs 4.
 
 **May 24, 2019: Version 4.18.4**
 
-* Visitor ID Service - Increased the return timeout for the 
+* Visitor ID Service - Increased the return timeout for the
 `visitorGetUrlVariablesAsync` API to 30 seconds.
 
-* Visitor ID Service - The `setPushIdentifier` API call now sends a sync call to the Visitor ID Service every time it is called. 
+* Visitor ID Service - The `setPushIdentifier` API call now sends a sync call to the Visitor ID Service every time it is called.
 
 For more information about the current and past release notes for all solutions, see [Adobe Experience Cloud Release Notes](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html).
