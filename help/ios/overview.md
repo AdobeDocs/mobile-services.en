@@ -14,6 +14,20 @@ iOS SDK 4.x for Experience Cloud Solutions lets you measure native Apple iPhone 
 
 >[!IMPORTANT]
 >
+>Starting with version 4.21.0, the iOS SDK has a minimum required version of Xcode 12. If you are using Cocoapods to manage dependencies in your app, the Adobe SDK requires version 1.10.0 or newer of Cocoapods.
+
+If using 4.21.0 or newer, read the documentation with the following changes in mind:
+
+* Any time a binary library file is mentioned, its XCFramework replacement should be used instead:
+    * `AdobeMobileLibrary.a` > `AdobeMobile.xcframework`
+    * `AdobeMobileLibrary_Extension.a` > `AdobeMobileExtension.xcframework`
+    * `AdobeMobileLibrary_Watch.a` > `AdobeMobileWatch.xcframework`
+    * `AdobeMobileLibrary_TV.a` > `AdobeMobileTV.xcframework`
+* The `ADBMobile.h` header file is embedded in each XCFramework.
+* If manually adding the Adobe XCFrameworks to your project, ensure that they are not embedded.
+
+>[!IMPORTANT]
+>
 >The Adobe Analytics Mobile Marketing Add-on SKU is required to enable Mobile Services access to mobile acquisition, deep linking, geolocation, and mobile messaging capabilities. For more information, contact your Adobe CSM.
 
 >[!IMPORTANT]
@@ -33,7 +47,7 @@ Some information to remember:
 
 * iOS 8 or later is supported
 
-  For iOS 11 or later, you **must** have SDK version 4.13.8 or later. 
+  For iOS 11 or later, you **must** have SDK version 4.13.8 or later.
 
 * In version 4.2 of this SDK and later, all hits are now sent using HTTP POST.
 
@@ -45,10 +59,10 @@ Some information to remember:
 
 Adobe Mobile services provides a new UI that brings together mobile marketing capabilities for mobile applications from across the Adobe Experience Cloud. Initially, the Mobile service provides seamless integration of app analytics and targeting capabilities from the Adobe Analytics, Adobe Audience Manager, and Adobe Target solutions, and Adobe Experience Platform Identity Service.
 
-To learn more about the Mobile Services UI and read the user documentation, see [Adobe Mobile Services](/help/using/home.md). 
+To learn more about the Mobile Services UI and read the user documentation, see [Adobe Mobile Services](/help/using/home.md).
 
 ## Using Bloodhound
 
 >[!IMPORTANT]
 >
->As of **April 30, 2017**, Adobe Bloodhound has been sunset. Starting on May 1, 2017, no additional enhancements and no additional Engineering or Adobe Expert Care support will be provided. 
+>As of **April 30, 2017**, Adobe Bloodhound has been sunset. Starting on May 1, 2017, no additional enhancements and no additional Engineering or Adobe Expert Care support will be provided.
