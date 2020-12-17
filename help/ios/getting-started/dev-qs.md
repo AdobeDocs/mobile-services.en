@@ -129,6 +129,12 @@ To download the SDK:
     >
     > Linking more than one `AdobeMobileLibrary*.a` file in the same target will result in unexpected behavior or the inability to build.
 
+    >[!IMPORTANT]
+    >
+    > If using version 4.21.0 or newer, ensure that the Adobe XCFrameworks are not embedded.
+
+    ![](assets/no-embed.png)
+
 1. Confirm that your app builds without errors.
 
 ## Implement lifecycle metrics {#section_532702562A7A43809407C9A2CBA80E1E}

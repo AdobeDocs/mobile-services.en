@@ -16,7 +16,15 @@ iOS SDK 4.x for Experience Cloud Solutions lets you measure native Apple iPhone 
 >
 >Starting with version 4.21.0, the iOS SDK has a minimum required version of Xcode 12. If you are using Cocoapods to manage dependencies in your app, the Adobe SDK requires version 1.10.0 or newer of Cocoapods.
 
-If using 4.21.0 or newer, all documentation that specifies a binary (e.g. - `AdobeMobileLibrary.a`) should instead use its XCFramework replacement (e.g. - `AdobeMobile.xcframework`). The `ADBMobile.h` header file is embedded in the XCFramework, so any reference to that file should also be ignored.
+If using 4.21.0 or newer, read the documentation with the following changes in mind:
+
+  * Any time a binary library file is mentioned, its XCFramework replacement should be used instead:
+    * `AdobeMobileLibrary.a` > `AdobeMobile.xcframework`
+    * `AdobeMobileLibrary_Extension.a` > `AdobeMobileExtension.xcframework`
+    * `AdobeMobileLibrary_Watch.a` > `AdobeMobileWatch.xcframework`
+    * `AdobeMobileLibrary_TV.a` > `AdobeMobileTV.xcframework`
+  * The `ADBMobile.h` header file is embedded in each XCFramework.
+  * If manually adding the Adobe XCFrameworks to your project, ensure that they are not embedded.
 
 >[!IMPORTANT]
 >
