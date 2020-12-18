@@ -23,7 +23,6 @@ If using 4.21.0 or newer, read the documentation with the following changes in m
     * `AdobeMobileLibrary_Extension.a` > `AdobeMobileExtension.xcframework`
     * `AdobeMobileLibrary_Watch.a` > `AdobeMobileWatch.xcframework`
     * `AdobeMobileLibrary_TV.a` > `AdobeMobileTV.xcframework`
-* The `ADBMobile.h` header file is embedded in each XCFramework.
 * If manually adding the Adobe XCFrameworks to your project, ensure that they are not embedded.
 
 >[!IMPORTANT]
