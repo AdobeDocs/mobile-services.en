@@ -123,7 +123,7 @@ Remember the following information:
 
 To install the Java tool:
 
-1. Download the [`acquistionTester.zip`](../assets/acquisitionTester.zip) file. 
+1. Download the [`acquisitionTester.zip`](../assets/acquisitionTester.zip) file. 
 1. Extract the .jar file. 
 
     You can run the .jar file on the command line. 
