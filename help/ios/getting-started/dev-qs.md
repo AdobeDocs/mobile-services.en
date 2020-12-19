@@ -32,20 +32,21 @@ To download the SDK:
 
 1. Download, unzip the `[Your_App_Name_]AdobeMobileLibrary-4.*-iOS.zip` file and verify that you have the following software components in the `AdobeMobileLibrary` directory:
 
+    * `ADBMobile.h` - the Objective-C header file used for iOS SDK.
     * `ADBMobileConfig.json` - the SDK configuration file that is customized for your app.
-    * `AdobeMobile.xcframework` - contains two fat binaries, one each for iOS devices (armv7, armv7s, arm64) and simulators (i386, x86_64, arm64). Also contains the `ADBMobile.h` header file for the SDK.
+    * `AdobeMobile.xcframework` - contains two fat binaries, one each for iOS devices (armv7, armv7s, arm64) and simulators (i386, x86_64, arm64).
 
       This XCFramework should be linked when targeting an iOS app.
 
-    * `AdobeMobileExtension.xcframework` - contains two fat binaries, one each for iOS devices (armv7, armv7s, arm64) and simulators (i386, x86_64, arm64). Also contains the `ADBMobile.h` header file for the SDK.
+    * `AdobeMobileExtension.xcframework` - contains two fat binaries, one each for iOS devices (armv7, armv7s, arm64) and simulators (i386, x86_64, arm64).
 
       This XCFramework should be linked when targeting an iOS extension.
 
-    * `AdobeMobileWatch.xcframework` - contains two fat binaries, one each for watchOS devices (arm64_32, armv7k) and simulators (i386, x86_64, arm64). Also contains the `ADBMobile.h` header file for the SDK.
+    * `AdobeMobileWatch.xcframework` - contains two fat binaries, one each for watchOS devices (arm64_32, armv7k) and simulators (i386, x86_64, arm64).
 
       This XCFramework should be linked when targeting an Apple Watch (watchOS) app.
 
-    * `AdobeMobileTV.xcframework` - contains two fat binaries, one each for tvOS devices (arm64) and simulators (x86_64, arm64). Also contains the `ADBMobile.h` header file for the SDK.
+    * `AdobeMobileTV.xcframework` - contains two fat binaries, one each for tvOS devices (arm64) and simulators (x86_64, arm64). 
 
       This XCFramework should be linked when targeting an Apple TV (tvOS) app.
 
