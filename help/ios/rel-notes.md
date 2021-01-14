@@ -14,7 +14,7 @@ Here is the release notes, known issues, and hot fix information for iOS SDKs 4.
 
 **January 13, 2021: Version 4.21.1**
 
- * General - Fixed an issue that could cause SQLite exceptions during app shut down.
+* General - Fixed an issue that could cause SQLite exceptions during app shut down.
 
 **December 15, 2020: Version 4.21.0**
 
