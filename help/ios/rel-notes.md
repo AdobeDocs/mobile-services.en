@@ -12,6 +12,10 @@ uuid: e1613dc5-02a4-43a7-997a-29b4de98b4d1
 
 Here is the release notes, known issues, and hot fix information for iOS SDKs 4.x for Experience Cloud Solutions:
 
+**January 13, 2021: Version 4.21.1**
+
+ * General - Fixed an issue that could cause SQLite exceptions during app shut down.
+
 **December 15, 2020: Version 4.21.0**
 
 * General - The SDK is now distributed using XCFrameworks in order to support hardware with the new Apple M1 architecture while maintaining support for existing Intel architecture.
