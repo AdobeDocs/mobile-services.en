@@ -115,7 +115,7 @@ Move the value from the first column to the variable in the second column.
 |dynamicVariablePrefix|Remove, no longer used.|
 |visitorNamespace|Remove, no longer used.|
 |usePlugins|Remove, no longer used.|
-|useBestPractices  all calls to churn measurement (  getChurnInstance )|Remove, replaced by lifecycle metrics. For more information, see [Lifecycle Metrics](//help/ios/metrics.md).|
+|useBestPractices  all calls to churn measurement (  getChurnInstance )|Remove, replaced by lifecycle metrics. For more information, see [Lifecycle Metrics](/help/ios/metrics.md).|
 
 
 ## Update track calls and tracking variables {#section_96E7D9B3CDAC444789503B7E7F139AB9}
