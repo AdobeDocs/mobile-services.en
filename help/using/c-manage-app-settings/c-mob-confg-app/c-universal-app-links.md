@@ -1,15 +1,14 @@
 ---
-description: Universal Links (iOS) and App Links (Android) allow you to connect to deep links in your iOS or Android apps.
-keywords: mobile
+description: Linking within apps and websites is important to maintain user experience. Learn how universal and App Links work and differences between them.
 seo-description: Universal Links (iOS) and App Links (Android) allow you to connect to deep links in your iOS or Android apps.
 seo-title: Apple Universal Links and Android App Links
 solution: Experience Cloud,Analytics
-title: Apple Universal Links and Android App Links
+title: Universal Links and App Links Guide
 topic: Metrics
 uuid: 8d6441dc-4307-4454-95ea-d77ec796f918
 ---
 
-# Apple Universal Links and Android App Links{#universal-links-and-app-links}
+# Universal Links vs. App Links: How do they work? {#universal-links-and-app-links}
 
 Universal Links (iOS) and App Links (Android) allow you to connect to deep links in your iOS or Android apps.
 
