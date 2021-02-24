@@ -1,18 +1,11 @@
 ---
 cloud: experience-cloud
 product: mobile-services
-solution-title: Learn & Support
-solution-hub-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
-solution-icon: help/assets/experience-cloud-logo-24.png
-getting-started-title: Getting Started
-getting-started-url: https://docs.adobe.com/content/help/en/mobile-services/using/get-started-ug/gs.html
-tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/experience-cloud/tutorials.html
+solution: Experience Cloud Services
+type: Documentation
 git-repo: https://github.com/AdobeDocs/mobile-services.en
 index: yes
 ---
-
-<!-- We need a better link for Tutorials. We can do this after we hit stage -->
 
 # Metadata for internal use
 
