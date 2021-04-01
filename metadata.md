@@ -1,5 +1,5 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 product: mobile-services
 solution: Experience Cloud Services
 type: Documentation
