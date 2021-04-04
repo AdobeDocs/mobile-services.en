@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Add Series (Metrics) to Reports
 topic: Reports,Metrics
 uuid: 84fdfb1f-70e6-4c02-9b3b-526e9c924f74
+exl-id: 1b1356c6-7f62-4b88-996a-09ed33b19c9d
 ---
-
 # Add series (metrics) to reports{#add-series-metrics-to-reports}
 
 This information helps you customize the built-in reports by adding additional series (metrics) or apps in different report suites to compare data.

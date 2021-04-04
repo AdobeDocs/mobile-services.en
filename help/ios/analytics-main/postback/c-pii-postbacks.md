@@ -4,8 +4,8 @@ seo-description: You can use the Adobe SDK to collect personally identifiable in
 seo-title: PII Postbacks
 title: PII Postbacks
 uuid: 08f76a52-75dd-4fc1-b4cc-4f5eef93d0f7
+exl-id: 180c21f7-0fba-4b9b-ab7f-7afe81b85f38
 ---
-
 # PII postbacks {#pii-postbacks}
 
 You can use the Adobe SDK to collect personally identifiable information (PII) and send it to a third-party endpoint.
@@ -32,4 +32,3 @@ When you want to use the Adobe SDK to collect PII, you should send a track PII c
    ```objective-c
    [ADBMobile collectPII data:nil];
    ```
-

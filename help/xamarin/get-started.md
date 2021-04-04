@@ -6,8 +6,8 @@ seo-title: Xamarin components for Experience Cloud Solutions 4.x SDK
 solution: Experience Cloud
 title: Xamarin components for Experience Cloud Solutions 4.x SDK
 uuid: e7a48107-bd0e-47d6-b49c-dfdae189ac37
+exl-id: 39628548-5787-4022-8792-86b78214a1c0
 ---
-
 # Xamarin components for Experience Cloud Solutions 4.x SDK {#xamarin-components-for-experience-cloud-solutions-x-sdk}
 
 This topic describes how to get started using Xamarin components for Mobile solutions 4.x SDK.

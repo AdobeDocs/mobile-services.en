@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Technology report
 topic: Reports,Metrics
 uuid: 4b7322c4-8920-43cd-bb72-5a5bd515ae84
+exl-id: 767c1538-68b1-4193-bd3d-3eb80e5b36f7
 ---
-
 # Technology report {#technology}
 
 The **[!UICONTROL Technology]** report allows you to see the different device types, operating systems, operating system versions, and mobile carriers on which your app is being used.
@@ -68,4 +68,4 @@ Click a slice in the ring to select the audience for which you want to create a 
 
 ## Share Reports {#section_560DD5CED5144249B7E49461E2422100}
 
-After you create a report, your settings are used to create a custom URL that you can copy and share. 
+After you create a report, your settings are used to create a custom URL that you can copy and share.

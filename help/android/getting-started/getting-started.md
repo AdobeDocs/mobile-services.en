@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Getting Started
 topic: Developer and implementation
 uuid: 39c642e2-60f0-4bbe-b0d1-2635ee2c6d01
+exl-id: 895f3986-5e6a-4bb1-b11f-a4dad0ba6bc7
 ---
-
 # Getting started {#getting-started}
 
 The information in this section helps you get started with the Android SDK for Experience Cloud Solutions.

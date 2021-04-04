@@ -4,8 +4,8 @@ seo-description: You can attach image files to your Android notifications. Addin
 seo-title: Receive Rich Push Notifications
 title: Receive Rich Push Notifications
 uuid: 4a0340a6-666b-49b6-907a-9afc966dfdba
+exl-id: 5776411c-aa0e-4e67-83aa-e78f5d1ed4f7
 ---
-
 # Receive rich push notifications {#receive-rich-push-notifications}
 
 You can attach image files to your Android notifications. Adding visual components can significantly increase your user's engagement with push notifications.
@@ -94,4 +94,4 @@ Here is an example of a rich push notification with an image:
 
 ![](assets/rich-push-notification_example.png)
 
-For more information about rich push notifications with Android, see [Engage with Rich Notifications](https://developer.android.com/distribute/best-practices/engage/rich-notifications.html). 
+For more information about rich push notifications with Android, see [Engage with Rich Notifications](https://developer.android.com/distribute/best-practices/engage/rich-notifications.html).

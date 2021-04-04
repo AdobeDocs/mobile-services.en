@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: App IDs
 topic: Developer and implementation
 uuid: 3ac99489-6269-439e-a814-24102ef220b1
+exl-id: 28358dd6-50dd-4ba9-9fb0-5271eae69d28
 ---
-
 # App IDs{#app-ids}
 
 The following table describes the different app identifiers that are used by the Android SDK and Adobe Mobile services.

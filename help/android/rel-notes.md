@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Release Notes
 topic: Developer and implementation
 uuid: 16bb4de8-a216-47a8-928c-0b1e1421adcf
+exl-id: 5cc3d031-5952-4e9b-b551-9402d3c05ccb
 ---
-
 # Release notes {#release-notes}
 
 Here is the release notes, known issues, and hot fix information for Android SDK 4.x for Experience Cloud Solutions:
@@ -53,4 +53,4 @@ sync call to the Visitor ID Service every time it is called.
 timeouts from 2 seconds to 5 seconds.
 
 
-For more information about the current and past release notes for all solutions, see [Adobe Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html). 
+For more information about the current and past release notes for all solutions, see [Adobe Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html).

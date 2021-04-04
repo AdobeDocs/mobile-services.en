@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Lifecycle Metrics
 topic: Developer and implementation
 uuid: b795e383-d59b-4a3c-9e14-ffe8fb58412c
+exl-id: b51b6c41-843f-499d-9cf2-7ce96ed82fc0
 ---
-
 # Lifecycle metrics {#lifecycle-metrics}
 
 Here are the metrics and dimensions that can be automatically measured by the mobile library after lifecycle is implemented.

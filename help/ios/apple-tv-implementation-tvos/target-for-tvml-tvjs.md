@@ -4,8 +4,8 @@ seo-description: You can leverage Adobe Target in your TVML/TVJS apps by making 
 seo-title: Adobe Target for TVML/TVJS
 title: Adobe Target for TVML/TVJS
 uuid: afd5a583-5266-43f2-8cb0-0ace89c53a57
+exl-id: 9348d49c-2a5a-4ea0-b90d-99d446bd336a
 ---
-
 # Adobe Target for TVML/TVJS{#adobe-target-for-tvml-tvjs}
 
 You can leverage Adobe Target in your TVML/TVJS apps by making direct replacements to your .xml files. Designate areas of your page to be replaced by Target content by using the custom ADBTarget XML element.

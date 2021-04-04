@@ -4,8 +4,8 @@ seo-description: Information to help you get starting with the Universal Windows
 seo-title: Get started
 title: Get started
 uuid: 5fbfde5e-eb08-496c-8d3b-d2350e374404
+exl-id: 56813c16-94bd-469e-83ff-06748d885222
 ---
-
 # Get started {#get-started}
 
 Information to help you get starting with the Universal Windows Platform SDK for Experience Cloud Solutions.
@@ -16,4 +16,4 @@ Information to help you get starting with the Universal Windows Platform SDK for
 
 1. Implement [Analytics](/help/universal-windows/analytics/analytics-methods.md), [Target](/help/universal-windows/target/target-methods.md), and [Audience Manager](/help/universal-windows/audiencemgmt/audience-manager-methods.md).
 
-1. If you are upgrading from a previous version, review the [Migration guide](/help/universal-windows/migration-v3.md). 
+1. If you are upgrading from a previous version, review the [Migration guide](/help/universal-windows/migration-v3.md).

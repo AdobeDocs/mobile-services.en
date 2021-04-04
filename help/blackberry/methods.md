@@ -4,8 +4,8 @@ seo-description: Classes and methods provided by the BlackBerry library.
 seo-title: Adobe Mobile class and method reference
 title: Adobe Mobile class and method reference
 uuid: 1e42d759-be43-4bb3-ac1a-c7d64133d61c
+exl-id: ad73ec1d-d082-4237-b7cb-b8ec2f7595a3
 ---
-
 # Adobe Mobile class and method reference {#adobe-mobile-class-and-method-reference}
 
 Classes and methods provided by the BlackBerry library.

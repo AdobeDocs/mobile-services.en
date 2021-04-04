@@ -4,8 +4,8 @@ seo-description: Target Preview allows you to easily perform end-to-end QA for T
 seo-title: Target Preview on iOS
 title: Target Preview on iOS
 uuid: d92867a4-0569-4732-a928-28f9e2f8b21e
+exl-id: d5695156-59cd-42c5-b9a3-d8e0ebbb89d0
 ---
-
 # Target Preview on iOS{#target-preview-on-ios}
 
 Target Preview allows you to easily perform end-to-end QA for Target activities and preview these activities on your device.

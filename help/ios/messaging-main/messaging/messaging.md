@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: In-App Messaging
 topic: Developer and implementation
 uuid: 21fa6a94-bb7f-4c78-843b-a50f1974db22
+exl-id: 70b0ade4-dcd1-4e00-9800-352f11c4001d
 ---
-
 # In-app messaging {#in-app-messaging}
 
 This information helps you use in-app messaging in your iOS apps.
@@ -111,4 +111,3 @@ The fallback image asset name is specified when configuring the message in Adobe
 >[!IMPORTANT]
 >
 >You need to ensure that the specified resource is available.
-

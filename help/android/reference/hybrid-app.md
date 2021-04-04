@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Visitor Tracking between an app and mobile web
 topic: Developer and implementation
 uuid: 073572e4-4c55-4b27-b4a7-e4349ccde7bf
+exl-id: 7ca98572-138d-48f8-aa2a-d376eebb0b2c
 ---
-
 # Visitor tracking between an app and the mobile web {#visitor-tracking-between-an-app-and-mobile-web}
 
 If your app opens mobile web content, ensure that visitors are not identified separately as they move between the native and mobile web.
@@ -87,4 +87,3 @@ If these troubleshooting steps do not resolve your issues, contact Adobe Experie
 >[!IMPORTANT]
 >
 >To allow Adobe can validate the implementation, you need to share a sample application and the associated site.
-

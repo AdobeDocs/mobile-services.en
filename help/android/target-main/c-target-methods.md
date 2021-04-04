@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Target methods for Android
 topic: Developer and implementation
 uuid: 8e9808b2-ba80-4646-ba05-8e62d4fde065
+exl-id: 0c7a6718-d078-4a2b-a2c9-d5cd50263939
 ---
-
 # Target methods for Android{#target-methods}
 
 Here is the list of Adobe Target methods that are provided by the Android library.

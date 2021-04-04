@@ -6,8 +6,8 @@ seo-title: ADBMobile.cs methods
 solution: Experience Cloud
 title: ADBMobile.cs methods
 uuid: af504934-febd-45d9-81e2-2a310f4c65dc
+exl-id: d12c16f1-c25c-4698-8943-a660d9c08faf
 ---
-
 # ADBMobile.cs methods {#adbmobile-cs-methods}
 
 ## Configuration methods

@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Add Filters to Reports
 topic: Reports,Metrics
 uuid: 19c395cc-2e07-4588-825b-f2f8b10a87c1
+exl-id: eb0589e9-668e-42d7-8f7a-00d7f0a2e3ff
 ---
-
 # Add filters to reports{#add-filters-to-reports}
 
 This information helps you customize the built-in reports by adding additional filters (segments).
@@ -64,4 +64,4 @@ In this example, we will customize the **[!UICONTROL Users & Sessions]** report,
 
    ![](assets/customize7.png)
 
-   Take some time to test the different options on the report customization menu, and ensure that you bookmark your favorites. Report URLs in Adobe Mobile are functional and can be emailed or added to your favorites. 
+   Take some time to test the different options on the report customization menu, and ensure that you bookmark your favorites. Report URLs in Adobe Mobile are functional and can be emailed or added to your favorites.

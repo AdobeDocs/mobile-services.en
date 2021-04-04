@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Testing Marketing Link acquisition
 topic: Developer and implementation
 uuid: 69503e01-182d-44c6-b0fb-e1c012ffa3bd
+exl-id: 2fb02b36-172e-4c16-9ef9-13f8288ab8a4
 ---
-
 # Testing Marketing Link acquisition {#testing-marketing-link-acquisition}
 
 The following instructions help you roundtrip an acquisition campaign with a Marketing Link that is based on a device fingerprint.

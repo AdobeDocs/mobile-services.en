@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Event Serialization
 topic: Developer and implementation
 uuid: acdeda16-ab83-4cfc-907d-33448b801b31
+exl-id: 03556912-fdcc-402e-b1de-233771f4e719
 ---
-
 # Event serialization {#event-serialization}
 
 Event serialization is not supported by processing rules. In the Mobile SDK, you must use a special syntax in the context data parameter to set serialized events directly on the server call.
@@ -32,4 +32,3 @@ Analytics.trackAction("action", cdata);
 // trackState example: 
 Analytics.trackState("State Name", cdata);
 ```
-

@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Processing Rules and Context Data
 topic: Developer and implementation
 uuid: ea892228-86f5-4980-acb8-45ae43c6996d
+exl-id: 543201fd-8118-485f-8235-26ec8f9bbb11
 ---
-
 # Processing rules and context data {#processing-rules-and-context-data}
 
 Processing rules are used to copy the data that you send in context data variables to evars, props, and other variables for reporting. For more information, see [Processing Rules](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/processing-rules/processing-rules.html).
@@ -51,4 +51,3 @@ When working with processing rules, remember the following information:
 >[!TIP]
 >
 >Adobe reserves the namespace `"a."`. To avoid collisions, the only other requirement is that context data variables are unique in your login company.
-

@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Experience Cloud overview
 topic: Developer and implementation
 uuid: dbf6e019-8707-42e7-97b8-e18a8a7d5e2c
+exl-id: 660187ab-c744-4aef-aea1-ede61d08897c
 ---
-
 # Experience Cloud overview {#experience-cloud}
 
 The information in this section helps you use the Android SDK with Adobe Experience Cloud.
@@ -21,4 +21,3 @@ As of September 2018, we released a new, major version of the SDK. These new Ado
 
 * To get started, go to Adobe Experience Platform Launch.
 * To see what is in the Experience Platform SDK repositories, go to [Github: Adobe Experience Platform SDKs](https://github.com/Adobe-Marketing-Cloud/acp-sdks).
-

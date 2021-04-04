@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Create an in-app message
 topic: Metrics
 uuid: 15b52713-9ffc-4df9-b21a-6b0576a96a54
+exl-id: 40c5e9b0-9034-4226-9bca-486df8939d02
 ---
-
 # Create an in-app message{#create-an-in-app-message}
 
 You can create an in-app message for delivery to mobile users. When creating the message, you configure the message type, audience, experience, and schedule.

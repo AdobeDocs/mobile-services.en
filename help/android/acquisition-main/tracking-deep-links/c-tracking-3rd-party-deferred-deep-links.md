@@ -4,8 +4,8 @@ seo-description: Use the Android SDK to implement the tracking of third-party de
 seo-title: Tracking Third-Party Deferred Deep Links
 title: Tracking Third-Party Deferred Deep Links
 uuid: 4c798e47-7988-4a06-a191-6c4d05f6ee61
+exl-id: d8cbc679-a512-44db-8c30-6a029ff738ae
 ---
-
 # Tracking third-party deferred deep links{#tracking-third-party-deferred-deep-links}
 
 Use the Android SDK to implement the tracking of third-party deferred deep links.
@@ -77,4 +77,3 @@ If the link can be attributed to an acquisition, the Adobe Mobile SDK will store
       ); 
    }
    ```
-

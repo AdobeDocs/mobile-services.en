@@ -6,8 +6,8 @@ seo-title: Enumerations
 solution: Experience Cloud
 title: Enumerations
 uuid: 7109cd0b-554f-4c4a-9acc-4b60812fb747
+exl-id: 6c88bb24-9c6a-4f7b-befe-213a320ead78
 ---
-
 # Enumerations {#enumerations}
 
 ## ADBPrivacyStatus
@@ -22,4 +22,3 @@ uuid: 7109cd0b-554f-4c4a-9acc-4b60812fb747
 * `PROXIMITY_IMMEDIATE` 
 * `PROXIMITY_NEAR` 
 * `PROXIMITY_FAR`
-

@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Timed Actions
 topic: Developer and implementation
 uuid: 5a48a580-b942-4e49-9f1b-078fea7fccdb
+exl-id: d9851440-6e65-4d89-a6b3-81c8abd2bf06
 ---
-
 # Timed actions {#timed-actions}
 
 Timed actions allow you to measure the in-app time and total time between the start and the end of an action. The SDK calculates the amount of time in each session and the total time across sessions that it will take for the action to be completed. You can use timed actions to define segments and compare time to purchase, pass level, checkout flow, and so on.
@@ -97,4 +97,3 @@ Analytics.trackTimedActionEnd("TimeUntilPurchase", new Analytics.TimedActionBloc
  } 
 });
 ```
-

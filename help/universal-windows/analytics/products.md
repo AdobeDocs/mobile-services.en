@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Products variable
 topic: Developer and implementation
 uuid: 607983d6-48ac-4274-bfc8-b1ca4e5dad1b
+exl-id: 0575236c-9858-4bf9-a2ce-6e2667d58ddd
 ---
-
 # Products variable {#products-variable}
 
 The products variable cannot be set using processing rules. In the mobile SDK, you must use a special syntax within the context data parameter to set products directly on the server call.
@@ -70,4 +70,3 @@ ADB.Analytics.trackState("Order Confirmation", cdata);
 >[!TIP]
 >
 >If you trigger a product-specific event using the *`&&products`* variable, you must also set that event in the *`&&events`* variable, otherwise the event is filtered out during processing.
-

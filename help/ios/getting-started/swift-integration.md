@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Swift Integration
 topic: Developer and implementation
 uuid: 5fb77b57-cbf9-4bcf-8b41-65a933bf9336
+exl-id: 3c1a2e28-53b0-4128-a5d9-d2403885098d
 ---
-
 # Swift integration {#swift-integration}
 
 The iOS Adobe Mobile SDK can be seamlessly integrated in a Swift project by using the Mix and Match feature in the iOS Developer Library.
@@ -25,4 +25,3 @@ To access methods from the SDK in your Swift files, use the following format:
 ```
 ADBMobile.{methodname}
 ```
-

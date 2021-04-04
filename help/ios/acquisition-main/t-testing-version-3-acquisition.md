@@ -5,8 +5,8 @@ seo-title: Testing V3 Acquisition
 solution: Experience Cloud,Analytics
 title: Testing V3 Acquisition
 uuid: 89137ccf-4839-4b37-926e-303cf8e511a5
+exl-id: 3cf66802-1f2c-428f-86ef-a9afc57e3470
 ---
-
 # Testing V3 acquisition{#testing-v-acquisition}
 
 This information helps you roundtrip a V3 acquisition campaign link based on a device fingerprint.
@@ -98,4 +98,4 @@ If the mobile app is not yet in the App Store, when you create the campaign link
 
       * The acquisition link and the hit from the SDK should be using the same HTTP/HTTPS protocol. 
 
-        If they are using different protocols (for example, the link uses HTTP and the SDK uses HTTPS), the IP address might differ for each request (on some carriers), and the attribution might fail. 
+        If they are using different protocols (for example, the link uses HTTP and the SDK uses HTTPS), the IP address might differ for each request (on some carriers), and the attribution might fail.

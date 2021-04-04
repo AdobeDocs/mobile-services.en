@@ -4,8 +4,8 @@ seo-description: In Adobe Analytics, you can manage roles on the Admin Tools Hom
 seo-title: Roles and Permissions
 title: Roles and Permissions
 uuid: ad350f8d-ef51-4519-98aa-3025bc0f5588
+exl-id: 70f0b427-60d5-4a79-a8d3-e03274edd917
 ---
-
 # Roles and permissions{#roles-and-permissions}
 
 In Adobe Analytics, you can manage roles on the Admin Tools Home page.

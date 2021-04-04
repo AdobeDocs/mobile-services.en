@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Postbacks Example
 topic: Developer and implementation
 uuid: 8010cd00-d42b-4e16-8403-692fab2550f1
+exl-id: 2ff41066-e2ee-425f-8aff-e5e3f3e5f0f5
 ---
-
 # Postbacks example {#postbacks-example}
 
 You can use this information to help you understand what postbacks are and how they work.
@@ -60,4 +60,4 @@ Analytics.trackState("MainMenu", contextData);
 
 Because its state is `“MainMenu”`, this tracking call triggers the above postback message. The URL will replace all template variables with values from the hit. Assuming that the user’s previous session was 132 seconds long, and that user is on Android SDK version 4.6.0, the resulting URL looks like this:
 
-`https://my.server.com/?user=bob&zip=90210&c16=4.6.0-AN&c27=cln,132` 
+`https://my.server.com/?user=bob&zip=90210&c16=4.6.0-AN&c27=cln,132`

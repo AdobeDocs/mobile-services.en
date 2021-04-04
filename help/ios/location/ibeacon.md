@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: iBeacon tracking
 topic: Developer and implementation
 uuid: 390883db-027e-4d12-8a16-86d514579db1
+exl-id: 7232e51d-5695-43ad-8d67-fb3cad70e8f2
 ---
-
 # iBeacon tracking {#ibeacon-tracking}
 
 iBeacon tracking allows you to measure and target micro locations using iBeacon and Low Energy Bluetooth.
@@ -73,4 +73,3 @@ Context data values must be mapped to custom variables:
 // When the user leaves the proximity of the beacon, clear the current beacon 
 [ADBMobile trackingClearCurrentBeacon];
 ```
-

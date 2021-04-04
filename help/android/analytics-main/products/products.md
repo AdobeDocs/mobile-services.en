@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Products Variable
 topic: Developer and implementation
 uuid: f4484022-cb8b-4dea-9209-5a110ba607df
+exl-id: 1d850ce1-6fd4-463e-8949-8b8cf40d8467
 ---
-
 # Products variable {#products-variable}
 
 The products variable cannot be set by using processing rules. In the Mobile SDK, you must use a special syntax in the context data parameter to set products on the server call.
@@ -42,4 +42,4 @@ The *products* variable is set on the image request, and the other variables are
 
 ![](assets/map-products.png)
 
-You do not need to map the *products* variable by using processing rules because this variable is set directly on the image request by the SDK. 
+You do not need to map the *products* variable by using processing rules because this variable is set directly on the image request by the SDK.

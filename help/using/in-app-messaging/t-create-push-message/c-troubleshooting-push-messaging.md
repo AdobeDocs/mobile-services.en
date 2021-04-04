@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Troubleshooting Push Messaging
 topic: Metrics
 uuid: c7be4ab7-0cfe-4296-84a8-01412f4fd93f
+exl-id: 56feb8e1-e196-4b70-8240-6e41581ca602
 ---
-
 # Troubleshooting push messaging{#troubleshooting-push-messaging}
 
 This information can help you troubleshoot push messaging.
@@ -99,4 +99,4 @@ If passed with the *PhotoShop_IOS_app_LA* push certificate, the push identifiers
   
 >[!CAUTION]
 >
->After you create a push message for an app that is using a VRS and click **[!UICONTROL Save & Send]**, an alert appears that reminds you ensure that each app that is listed **must** have a valid certificate. If each app does **not** have a valid certificate, your audience segments might be indefinitely blocklisted, and you might not be able to send future push messages to the affected users. For more information about audience segments, see [Audience: define and configure audience options for push messages](/help/using/in-app-messaging/t-create-push-message/c-audience-push-message.md). 
+>After you create a push message for an app that is using a VRS and click **[!UICONTROL Save & Send]**, an alert appears that reminds you ensure that each app that is listed **must** have a valid certificate. If each app does **not** have a valid certificate, your audience segments might be indefinitely blocklisted, and you might not be able to send future push messages to the affected users. For more information about audience segments, see [Audience: define and configure audience options for push messages](/help/using/in-app-messaging/t-create-push-message/c-audience-push-message.md).

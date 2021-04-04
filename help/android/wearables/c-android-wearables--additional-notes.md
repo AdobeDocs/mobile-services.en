@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Android Wearables  Additional Notes
 topic: Developer and implementation
 uuid: 3bcf352b-4d46-4ab3-81ec-c27e86fe9be3
+exl-id: ae8cf2d1-d2b0-456b-bbd3-3980e00bbc84
 ---
-
 # Android Wearables: additional notes{#android-wearables-additional-notes}
 
 Here is some information to help you configure the Android extension, which allows you to collect data from your Android Wearable app.
@@ -25,4 +25,3 @@ Here is some information to help you configure the Android extension, which allo
 
 * The SDK automatically syncs the `aid`/`vid`/`visitor` `service id`/`privacy` status from the handheld app to the wearable app, so do not call `setPrivacyStatus`/`setUserIdentifier`/`idSync` from the wearable app. 
 * [In-app messages](/help/android/messaging-main/messaging/messaging.md), [Target](/help/android/target-main/target.md), and [Audience Manager](/help/android/audience-manager/audiencemgmt.md) are disabled for the wearable app.
-

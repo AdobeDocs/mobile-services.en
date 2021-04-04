@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Troubleshooting In-App Messaging
 topic: Metrics
 uuid: 58533aa3-2eb2-4597-8525-77e4e5975e56
+exl-id: ce009289-9d22-4d76-9997-31fc864e9d4d
 ---
-
 # Troubleshooting in-app messaging{#troubleshooting-in-app-messaging}
 
 This information helps you troubleshoot in-app messaging.
@@ -94,4 +94,4 @@ To display in-app messages in full-screen mode on an iPhone X:
       } 
    ```
 
-   These settings prevent the UI elements from colliding with the status bar. 
+   These settings prevent the UI elements from colliding with the status bar.

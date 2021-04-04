@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Target methods
 topic: Developer and implementation
 uuid: 8c35b31c-c70b-4dba-8759-173342a301e9
+exl-id: 2db9f594-01e7-4ca8-a90e-9d12278350d0
 ---
-
 # Target methods {#target-methods}
 
 List of Target methods provided by the Windows 8.1 Universal App Store library.
@@ -164,4 +164,3 @@ static property Platform::String ^TARGET_PARAMETER_MBOX_HOST {
     ```js
     auto sessionId = ADBMobile.Target.getSessionId(); 
     ```
-

@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Configuration overview
 topic: Developer and implementation
 uuid: 207d6eae-7fc5-449d-b92b-c2d83e8e82b4
+exl-id: 6e16f15a-71c9-4f0d-ba45-f6c22e05b9c2
 ---
-
 # Configuration overview {#configuration}
 
 The information in this section helps you configure the Android SDK, including JSON configuration and hit batching and learn more about the SDK methods.
@@ -20,4 +20,3 @@ As of September 2018, we released a new, major version of the SDK. These new Ado
 
 * To get started, go to Adobe Experience Platform Launch.
 * To see what is in the Experience Platform SDK repositories, go to [Github: Adobe Experience Platform SDKs](https://github.com/Adobe-Marketing-Cloud/acp-sdks).
-

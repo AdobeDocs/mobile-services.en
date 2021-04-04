@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Migrate to the 4.x SDKs
 topic: Developer and implementation
 uuid: e0fe3b7b-cda5-4a91-834c-2c7e17a501a3
+exl-id: d6dc34f2-61b7-4026-a66a-19284e21e69c
 ---
-
 # Migrate to the 4.x SDKs {#migrate-to-the-x-sdks}
 
 This section describes how to migrate from the 3.x version of a previous Windows mobile SDK to the Windows 8.1 Universal App Store 4.x SDK for Experience Cloud Solutions.

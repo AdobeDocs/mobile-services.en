@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Visitor Tracking Between an App and Mobile Web
 topic: Developer and implementation
 uuid: 2d951de6-3954-4379-a4ff-99b9695b9869
+exl-id: d8459d59-0edd-42c4-81b5-529b250accb4
 ---
-
 # Visitor tracking between an app and mobile web  {#visitor-tracking-between-an-app-and-mobile-web}
 
 If your app opens mobile web content, you need to ensure that visitors are not identified separately as they move between the native and mobile web.
@@ -84,4 +84,4 @@ Verify the following:
 
 * The `VisitorAPI.js` is version 1.7.0 or higher.
   
-If these troubleshooting steps do not resolve your issues, contact Adobe Client Care; be prepared to share a sample application and the associated site so that Adobe can validate the implementation. 
+If these troubleshooting steps do not resolve your issues, contact Adobe Client Care; be prepared to share a sample application and the associated site so that Adobe can validate the implementation.

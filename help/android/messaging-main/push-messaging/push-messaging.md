@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Push Messaging
 topic: Developer and implementation
 uuid: 729d4010-3733-4dff-b188-ad45bd3e7cc4
+exl-id: 4472e0b9-1d00-4e1a-8653-f3976b74c078
 ---
-
 # Push messaging {#push-messaging}
 
 Adobe Mobile and the Adobe Mobile SDK allow you to send push messages to your users. The SDK also allows you to easily report users who have opened your app after clicking through a push message.
@@ -71,4 +71,3 @@ To use push messaging, you **must** have SDK version 4.6 or later.
       * Use `Config.collectLifecycleData(this)` or `Config.collectLifecycleData(this, contextData)`. 
    
       * Do **not** use `Config.collectLifecycleData()`.
-

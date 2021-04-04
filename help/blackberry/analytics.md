@@ -4,8 +4,8 @@ seo-description: After you add the library to your project, you can make any of 
 seo-title: Analytics
 title: Analytics
 uuid: de018eda-b37d-4afe-83a0-8011381d7aff
+exl-id: 4cd27e1a-e806-4dbb-84f5-63902ca2003f
 ---
-
 # Analytics {#analytics}
 
 After you add the library to your project, you can make any of the Analytics method calls anywhere in your App (make sure you import ADBMobile.h to your class).

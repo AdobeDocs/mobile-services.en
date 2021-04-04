@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Top 50 Articles
 topic: Metrics
 uuid: 341370d1-fa87-43ca-8135-425b3bba272f
+exl-id: 8d5d6ab4-fcbb-42b2-b9bc-5ccb4f73522f
 ---
-
 # Top 50 Articles report{#top-articles}
 
 The **[!UICONTROL Top 50 Articles]** report displays a bar chart and ranked report displays the most-read articles using the app. This report is available only to DPS customers.

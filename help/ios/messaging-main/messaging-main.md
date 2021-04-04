@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Messaging
 topic: Developer and implementation
 uuid: c6475ab4-015d-46b0-af28-5d0df3f4459e
+exl-id: e7be8760-6daf-42c8-9c3d-1de29d62ad0b
 ---
-
 # Messaging{#messaging}
 
 This information helps you use messaging in your iOS apps.
@@ -20,4 +20,3 @@ As of September 2018, we released a new, major version of the SDK. These new Ado
 
 * To get started, go to Adobe Experience Platform Launch.
 * To see what is in the Experience Platform SDK repositories, go to [Github: Adobe Experience Platform SDKs](https://github.com/Adobe-Marketing-Cloud/acp-sdks).
-

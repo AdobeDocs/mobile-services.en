@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: iOS Extension Implementation
 topic: Developer and implementation
 uuid: 8afc03fe-403e-4643-ada1-30e403ede238
+exl-id: 741b0cd5-6245-480a-b5bf-a33a1f82a425
 ---
-
 # iOS extension implementation {#ios-extension-implementation}
 
 You can use the iOS extension helps you collect usage data from your Apple Watch Apps (WatchOS 1), Today Widgets, Photo Editing widgets, and other iOS extension apps.
@@ -105,4 +105,3 @@ Here is some information to remember:
 * If the containing app is never launched, hits from the extension are discarded. 
 * The version number and build number must be the same between your containing app and the extension app. 
 * No lifecycle call is triggered on iOS extension apps.
-

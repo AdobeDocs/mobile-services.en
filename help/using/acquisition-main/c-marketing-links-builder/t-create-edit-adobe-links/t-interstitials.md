@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Interstitials
 topic: Metrics
 uuid: 7dce8ab2-2a5d-4384-ac1e-e31dfaa33654
+exl-id: b6d4588f-4f28-4c1b-9291-f4b9154d84f7
 ---
-
 # Interstitials{#interstitials}
 
 You can route users to a destination depending on whether they have the app installed (an app deep link) or not installed (to a website or an app store). The choice of routing is best left to users. Marketers can provide user choices by configuring an interstitial page that shows users the available landing destinations.

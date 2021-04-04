@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Create an Acquisition Link
 topic: Metrics
 uuid: bb603013-fca9-44a2-820a-59e1c85d9444
+exl-id: bc351d1e-c7da-4418-ac5a-9e5f989dd566
 ---
-
 # Create an Acquisition Link{#create-an-acquisition-link}
 
 You can create app store links that let you download applications directly from the Apple App Store and Google Play. The links you create let you attribute your success events to the downloads.

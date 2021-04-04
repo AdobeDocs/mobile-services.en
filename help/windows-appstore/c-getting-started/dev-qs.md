@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Developer quick start
 topic: Developer and implementation
 uuid: b368959b-d985-436e-8b3e-97e355a97951
+exl-id: dd3262b1-e211-4758-9b4a-9dc7c4920c10
 ---
-
 # Developer quick start {#developer-quick-start}
 
 You'll need Visual Studio 2013 or later to implement the SDK.
@@ -189,4 +189,4 @@ Right-click the project, select **[!UICONTROL Properties]** > **[!UICONTROL Debu
 
 Right-click the project, select  **[!UICONTROL Properties]** > **[!UICONTROL Configuration Properties]** > **[!UICONTROL Debug tab]**. Change the debugger type drop down to **Native Only**.
 
-That's it! You're now ready to implement Analytics, Target, and Audience Management in your Windows 8.1 Universal App Store app. 
+That's it! You're now ready to implement Analytics, Target, and Audience Management in your Windows 8.1 Universal App Store app.

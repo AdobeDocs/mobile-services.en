@@ -6,8 +6,8 @@ seo-title: Android methods
 solution: Experience Cloud
 title: Android methods
 uuid: 860af1c4-f57e-4bcb-8308-4e316da9a27b
+exl-id: 0de1fa11-37e9-49be-8d42-a13cb4a3f0e3
 ---
-
 # Android methods{#android-methods}
 
 Android methods for Xamarin components for Experience Cloud solutions 4.x SDK.

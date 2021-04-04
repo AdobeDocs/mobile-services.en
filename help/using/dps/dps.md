@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Digital Publishing Suite overview
 topic: Metrics
 uuid: ca335891-5d73-47dc-811f-374a0844109f
+exl-id: 5f5e09a3-c634-480c-863d-f9a34cd01464
 ---
-
 # Digital Publishing Suite overview {#digital-publishing-solution}
 
 You can view reports that are available to Digital Publishing Suite (DPS) customers.

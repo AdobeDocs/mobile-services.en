@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Wearables overview
 topic: Developer and implementation
 uuid: f9a5d692-0ef6-4cdf-831e-e50be291f083
+exl-id: 5b390aa9-5bbd-4f69-9b09-49b9900fa550
 ---
-
 # Wearables overview {#wearables}
 
 The information in this section helps you understand how you can use the Android extension to collect data from your Android Wearable app. 

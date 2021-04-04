@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Destinations
 topic: Metrics
 uuid: 0e0e7d22-067c-4a59-abcb-a4826800944d
+exl-id: e30128de-5b2d-4617-a871-44fe489ea6e7
 ---
-
 # Destinations{#destinations}
 
 Marketers can create, save, and edit link destinations, such as Web, Deep, or other links, that can be used while building trackable Marketing Links.
@@ -33,4 +33,4 @@ You can create the following types of link destinations:
 
     Hybrid links support iOS Universal Links or Android App Links.
 
-For more information about how to create each type of link, see [Create new link destination](/help/using/acquisition-main/c-manage-link-destinations/t-create-new-app-deep-link-destination.md). 
+For more information about how to create each type of link, see [Create new link destination](/help/using/acquisition-main/c-manage-link-destinations/t-create-new-app-deep-link-destination.md).

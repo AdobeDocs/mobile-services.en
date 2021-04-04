@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Stand-Alone Extension Implementation
 topic: Developer and implementation
 uuid: 9b47f082-b78f-4611-968d-014c32ede6bc
+exl-id: b51247b6-c4ba-4a00-9ba0-1824450ac067
 ---
-
 # Stand-alone extension implementation {#stand-alone-extension-implementation}
 
 Starting with iOS 10, Apple allows you to create an extension called a stand-alone extension that can be distributed without a containing app. With this extension, you do not need an app group, as there is no containing app with which to share data.
@@ -49,4 +49,3 @@ Here is some additional information:
     This value means that the hit came from the extension.
 
 * No lifecycle call is triggered on iOS extension apps.
-

@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Delete Acquisition links
 topic: Metrics
 uuid: e7362348-ca24-4f1c-b37f-eca6d2b0da6d
+exl-id: 4c007ec6-40ba-468f-8bfc-0930a04c59c1
 ---
-
 # Delete Acquisition links{#delete-acquisition-links}
 
 When you no longer needed Acquisition links, you can delete them.
@@ -24,4 +24,3 @@ When you no longer needed Acquisition links, you can delete them.
    >[!TIP]
    >
    >The **[!UICONTROL Delete Selection]** option does not display until you select one or more acquisition links.
-

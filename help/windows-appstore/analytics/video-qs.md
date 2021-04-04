@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Video Analytics
 topic: Developer and implementation
 uuid: 7d4e6668-a1d9-41da-96c8-8baac860c5b0
+exl-id: 86d70a6f-db12-4f94-a37f-4b1d4b99e0f1
 ---
-
 # Video Analytics {#video-analytics}
 
 Information to help you with Video Analytics.
@@ -267,4 +267,3 @@ property bool isMediaAd;
     ```js
     ADB.Media.track("mediaName", null);
     ```
-

@@ -6,8 +6,8 @@ seo-title: Implement lifecycle
 solution: Experience Cloud
 title: Implement lifecycle
 uuid: 6dccc12e-8b57-4231-9c74-d47bc0ac93ba
+exl-id: c76e63d1-48a5-4831-85d5-f3d3e9798a43
 ---
-
 # Implement lifecycle {#implement-lifecycle}
 
 This information helps you implement Lifecycle metrics for Android. 

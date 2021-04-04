@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Geo-Location and points of interest
 topic: Developer and implementation
 uuid: b8209370-cbc4-40f9-97d8-017e2d74a377
+exl-id: e1fed35b-5ce9-48ee-ade0-b1701cf2a3a9
 ---
-
 # Geo-location and points of interest {#geo-location-and-points-of-interest}
 
 Geo-location helps you measure location data by using latitude and longitude and predefined points of interest in your Android apps.
@@ -113,4 +113,3 @@ Remember the following information:
 * When two POIs have overlapping diameters, the first POI that contains the current location is used.
 
   If your POIs overlap, you should list POIs in order of most to least granular to ensure that the most granular POI is reported.
-

@@ -4,8 +4,8 @@ seo-description: This information helps you retrieve locally stored, Experience 
 seo-title: Retrieving Stored Identifiers
 title: Retrieving Stored Identifiers
 uuid: 4fb2c166-6700-4f8b-b60b-137b199e0509
+exl-id: ec8592af-fb08-4ab3-99a1-51ac5697a3d8
 ---
-
 # Retrieving stored identifiers{#retrieving-stored-identifiers}
 
 This information helps you retrieve locally stored, Experience Cloud SDK identities from your iOS app and with GDPR data access requests.
@@ -34,4 +34,3 @@ Here is an example of the `ADBMobile getAllIdentifiersAsync` method in iOS:
       NSLog(content) 
 }]
 ```
-

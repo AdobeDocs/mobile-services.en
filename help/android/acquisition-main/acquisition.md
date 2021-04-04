@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Mobile App Acquisition
 topic: Developer and implementation
 uuid: 4d32eae9-e856-4e40-8a29-2b5bccd106e0
+exl-id: 266f0266-38f5-410b-ae14-92874fb0e7ce
 ---
-
 # Mobile app acquisition {#mobile-app-acquisition}
 
 Acquisition links with unique tracking codes can be generated in Adobe Mobile services. When a user downloads and runs an app from the App store after clicking on the generated link, the SDK automatically collects and sends the acquisition data to Adobe Mobile services.

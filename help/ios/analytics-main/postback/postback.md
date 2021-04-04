@@ -5,8 +5,8 @@ seo-title: Postbacks
 solution: Experience Cloud,Analytics
 title: Postbacks overview
 uuid: 25e2a5fb-1203-40dd-96cd-b23e0f23376d
+exl-id: c5aa0b99-2cb3-4dd7-9da8-e573241e864b
 ---
-
 # Postbacks overview {#postbacks}
 
 Postbacks allow you to send data that is collected by the SDK to a third-party server. By leveraging the same triggers and traits that you use to display an in-app message, you can configure the SDK to send customized data to a third-party destination.

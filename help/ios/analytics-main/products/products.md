@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Products Variable
 topic: Developer and implementation
 uuid: 6ece4d27-ef86-435c-a6f7-bd76be1c95ca
+exl-id: c945add4-5358-44f6-b445-554b0df056c1
 ---
-
 # Products variable {#products-variable}
 
 The products variable cannot be set by using processing rules. In the iOS 4.x SDK, you must use a special syntax in the context data parameter to set products directly on the server call.
@@ -42,4 +42,4 @@ NSMutableDictionary *contextData = [NSMutableDictionary dictionary];
 
 ![](assets/map-products.png)
 
-You do not need to map the *`products`* variable using processing rules because it is set directly on the image request by the SDK. 
+You do not need to map the *`products`* variable using processing rules because it is set directly on the image request by the SDK.

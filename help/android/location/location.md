@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Location overview
 topic: Developer and implementation
 uuid: 15180bd6-616b-477d-a106-96a52c974d7d
+exl-id: 687a3b2c-ee74-46d8-a732-b3a0bec6e798
 ---
-
 # Location overview {#location}
 
 The information in this section helps you use the Location feature in your Android apps.
@@ -21,4 +21,3 @@ As of September 2018, we released a new, major version of the SDK. These new Ado
 
 * To get started, go to Adobe Experience Platform Launch.
 * To see what is in the Experience Platform SDK repositories, go to [Github: Adobe Experience Platform SDKs](https://github.com/Adobe-Marketing-Cloud/acp-sdks).
-

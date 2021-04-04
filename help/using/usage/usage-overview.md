@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Overview report
 topic: Reports,Metrics
 uuid: 5f7088af-4b25-4fe5-afda-4844597c78f9
+exl-id: db681d0e-b784-4415-b248-f92df5b780cc
 ---
-
 # Overview report{#overview}
 
 The Overview report provides a snapshot of your key metrics.
@@ -22,4 +22,3 @@ You can change the date range for the report by clicking the calendar icon on th
 >[!TIP]
 >
 >You configure the key metrics for this report while creating the app. For more information, see [Configuring your app](/help/using/c-manage-app-settings/c-mob-confg-app/c-mob-confg-app.md).
-

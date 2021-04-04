@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Reports
 topic: Reports,Metrics
 uuid: 2abc2bd1-dbae-4af1-9b8d-1df2f6d3a81f
+exl-id: a95dd9c9-49f3-41df-87bf-6a2ac0d46c5c
 ---
-
 # Reports{#reports}
 
 Usage reports display average session length, daily and monthly engaged users, upgrades, and other insights that help you understand how and how often your app is being used. Retention reports quickly shows user retention levels 1 day, 7 days, and 28 days after the initial launch.

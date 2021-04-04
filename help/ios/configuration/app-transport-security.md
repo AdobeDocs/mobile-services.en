@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: App Transport Security
 topic: Developer and implementation
 uuid: e9ee13cf-9802-492e-8b11-95f028e34e61
+exl-id: 2fe94e76-06d6-4ad1-95ba-193ae3df4d58
 ---
-
 # App Transport Security {#app-transport-security}
 
 This information helps you work with App Transport Security (ATS), which is a new set of security requirements for iOS 9.
@@ -32,4 +32,3 @@ As an alternative, you may place the following servers in your 'allowed' list:
 >[!TIP]
 >
 >These considerations affect the connections that are made by the Adobe Mobile SDK and do not impact web view or other connections that are made by your app.
-

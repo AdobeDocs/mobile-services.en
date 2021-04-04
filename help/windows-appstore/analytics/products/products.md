@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Products variable
 topic: Developer and implementation
 uuid: 2057a564-06ae-4171-bbe7-0baffa71608b
+exl-id: b731e794-7134-4c6d-a41b-09ac9b84763d
 ---
-
 # Products variable{#products-variable}
 
 The products variable cannot be set using processing rules. In the mobile SDK, you must use a special syntax within the context data parameter to set products directly on the server call.
@@ -42,4 +42,4 @@ ADB.Analytics.trackState("Order Confirmation", cdata);
 
 ![](assets/products-procrules.png)
 
-You do not need to map the *`products`* variable using processing rules since it is set directly on the image request by the SDK. 
+You do not need to map the *`products`* variable using processing rules since it is set directly on the image request by the SDK.

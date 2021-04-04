@@ -4,8 +4,8 @@ seo-description: Target Preview allows you to easily perform end-to-end QA for T
 seo-title: Target Preview on Android
 title: Target Preview on Android
 uuid: f3c82d64-009c-4929-a5e6-3677b2977889
+exl-id: 69103f3a-9521-4808-8ecd-7b960efca04d
 ---
-
 # Target Preview on Android {#target-preview-on-android}
 
 Target Preview allows you to easily perform end-to-end QA for Target activities and preview these activities on your device.
@@ -31,4 +31,3 @@ For more information on how to set up and use Target Preview, go to [Target Mobi
     ```java
     Target.setPreviewRestartDeeplink(“myapp://myhost”); 
     ```
-

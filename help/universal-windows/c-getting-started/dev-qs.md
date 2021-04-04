@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Developer quick start
 topic: Developer and implementation
 uuid: 11c06fcf-d5e4-4858-9a4e-3bf66cdd2a48
+exl-id: 28fc2a96-907e-41fc-a798-3e8d43fc7616
 ---
-
 # Developer quick start{#developer-quick-start}
 
 Here is some information about how to implement the Universal Windows Platform library.
@@ -183,4 +183,3 @@ For C Sharp and JavaScript apps, you need to enable native code debugging by com
 1. Change the debugger type drop down to **[!UICONTROL Native Only]**.
 
 That's it! You're now ready to implement Analytics, Target, and Audience Management in your Universal Windows Platform app.
-

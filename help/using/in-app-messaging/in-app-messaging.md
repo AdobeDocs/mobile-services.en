@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Messaging
 topic: Metrics
 uuid: e32d3e35-2d09-4ddf-8919-75dc895abcb3
+exl-id: e6d076fc-3176-4591-8388-314b936c58cd
 ---
-
 # Messaging {#messaging}
 
 You can create, manage, and report on in-app and push messages.

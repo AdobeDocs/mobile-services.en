@@ -4,8 +4,8 @@ seo-description: A virtual report suite (VRS) is a report suite that is created 
 seo-title: Virtual Report Suites
 title: Virtual Report Suites
 uuid: 3f467cad-43e7-4cd0-889b-89f8c61febbd
+exl-id: c9ce7f7c-2023-4a9d-9e4d-bacc21f9ad40
 ---
-
 # Virtual report suites {#virtual-report-suites}
 
 A virtual report suite (VRS) is a report suite that is created by applying one or more segment definition to a report suite. This allows users to maintain their data in one report suite, but manage the data as if it was in separate report suites.

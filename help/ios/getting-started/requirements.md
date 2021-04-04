@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Before You Start
 topic: Developer and implementation
 uuid: 04133f68-3618-41fd-8a13-aec5b6f04df6
+exl-id: 83da7cf5-3211-484d-bfe8-7b3b4999eea2
 ---
-
 # Before you start {#before-you-start}
 
 Complete these steps to configure a report suite to collect iOS app data.
@@ -94,4 +94,3 @@ To download the mobile SDK:
 >[!TIP]
 >
 >A config file for your app is automatically included in the SDK download, so you do not need to download that file separately. However, if you already downloaded the SDK, and you want to get updated settings, download the config file again.
-

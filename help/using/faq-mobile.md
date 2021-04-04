@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Frequently Asked Questions
 topic: Metrics
 uuid: 62a9241c-2ada-483a-a594-b023916cb0b6
+exl-id: d7dfc36e-56f0-498a-ad50-93fee90cb6ff
 ---
-
 # Frequently Asked Questions {#frequently-asked-questions}
 
 The following table contains a list of frequently asked questions for Adobe Mobile Services:

@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Download Mobile SDKs and Tools
 topic: Developer and implementation,Metrics
 uuid: 4af757f7-4e4d-4939-9b6a-49a29c220192
+exl-id: 34ec76fa-3bcb-4b77-9d1e-7160941deb44
 ---
-
 # Download mobile SDKs and tools{#download-mobile-sdks-and-tools}
 
 This information helps you download the Mobile Services SDKs and tools.
@@ -28,5 +28,4 @@ Configure your app in Adobe Mobile services so you can download a customized pac
 * [iOS instructions](/help/ios/getting-started/requirements.md)
 * [Android instructions](/help/android/getting-started/requirements.md)
 
-To see the documentation for native libraries including Windows Phone 8, Blackberry, Xamarin, and others, see the *SDK Documentation* section in [Adobe Mobile Services](/help/using/home.md). 
-
+To see the documentation for native libraries including Windows Phone 8, Blackberry, Xamarin, and others, see the *SDK Documentation* section in [Adobe Mobile Services](/help/using/home.md).

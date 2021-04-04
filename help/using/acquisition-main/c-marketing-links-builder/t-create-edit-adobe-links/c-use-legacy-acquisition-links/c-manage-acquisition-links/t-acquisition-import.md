@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Import or export Acquisition links
 topic: Metrics
 uuid: 94ea008a-473a-40c3-9fa8-a94eb0208c8f
+exl-id: 9be2377e-7f46-44f7-9c5e-1c20c617276d
 ---
-
 # Import or export Acquisition Links{#import-or-export-acquisition-links}
 
 If you prefer to work with the links by using a .csv file instead of the Adobe Mobile Services user interface, you can import or export acquisition links.
@@ -18,4 +18,3 @@ If you prefer to work with the links by using a .csv file instead of the Adobe M
 
     * Browse to and select the file that you want to upload to Mobile Services. 
     * Click **[!UICONTROL Export]** and open or save the file.
-

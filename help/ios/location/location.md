@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Location
 topic: Developer and implementation
 uuid: a4e5650a-f5d3-4fb1-bd11-a27a3918d763
+exl-id: 0c524fb8-6b0d-4e59-87a8-a9e2beda633a
 ---
-
 # Location {#location}
 
 The information in this section helps you use the Location features in your iOS apps.

@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Geo-Location and points of interest
 topic: Developer and implementation
 uuid: c800ec85-a33f-425d-b28f-bfe8bf229ae8
+exl-id: 732c3863-2010-4d04-a17b-a656e857f567
 ---
-
 # Geo-location and points of interest {#geo-location-and-points-of-interest}
 
 Geo-location helps you measure location data by using latitude and longitude and predefined points of interest in your iOS apps.
@@ -109,4 +109,3 @@ Remember the following information:
 * When two POIs have overlapping diameters, the first POI that contains the current location is used. 
 
   If your POIs overlap, you should list POIs in order of most granular to least granular to ensure that the most granular POI is reported.
-

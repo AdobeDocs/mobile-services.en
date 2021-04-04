@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Delete an App
 topic: Metrics
 uuid: 1721cce5-b368-4f05-a40b-e3f2348d96d8
+exl-id: 70b95aed-9e22-470b-b278-6c015334e92a
 ---
-
 # Delete an app{#delete-an-app}
 
 You can delete an app from the Mobile Services UI.

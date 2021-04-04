@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Configure SDK ID Service Options
 topic: Metrics
 uuid: e69b57f7-153a-4a95-9c1e-c07fe29dea2d
+exl-id: e44ca332-9723-4ffc-ac24-52a620f32783
 ---
-
 # Configure SDK ID Service Options {#configure-sdk-id-service-options}
 
 You can configure the Adobe Experience Cloud Identity Service options on the Manage App Settings page while creating a new app or editing an existing app.

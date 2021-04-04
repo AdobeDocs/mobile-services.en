@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Display Mobile Metrics
 topic: Metrics
 uuid: 57db0b77-6b0a-4a0c-9aad-0731275233fd
+exl-id: aab6448d-4362-4c75-949a-7a519da76606
 ---
-
 # Display mobile metrics {#display-mobile-metrics}
 
 You can display the key performance metrics of the apps that you most recently viewed. By default, you can view up to 12 apps. You can change the date range and create filters to segment the data and edit any app on the Overview page.

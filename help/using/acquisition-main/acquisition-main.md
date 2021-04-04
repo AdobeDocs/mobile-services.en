@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Acquisition
 topic: Metrics
 uuid: 987146e4-2cca-46e7-88aa-74b62d9f1dc5
+exl-id: ed0842a8-e3cb-4c5a-b001-c0ea3ca69583
 ---
-
 # Acquisition {#acquisition}
 
 Marketers can create tracking links to promote and drive traffic to their apps. These tracking links can drive users to app stores, app deep links, and interstitials, which can be correlated to in-app behavior. A marketer can create one link to route users to iOS, Android, or other platforms as appropriate.

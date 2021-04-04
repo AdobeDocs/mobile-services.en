@@ -4,8 +4,8 @@ seo-description: This information helps you retrieve locally stored, SDK identit
 seo-title: Retrieving stored identifiers
 title: Retrieving stored identifiers
 uuid: 6fd3d202-b0a1-4c80-96f4-369fc24ac0a3
+exl-id: 86c990d8-334b-4003-b0ac-d5404cb598e4
 ---
-
 # Retrieving stored identifiers{#retrieving-stored-identifiers}
 
 This information helps you retrieve locally stored, SDK identities from your Android app and with GDPR data access requests.

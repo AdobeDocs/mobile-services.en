@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Acquisition Prerequisites
 topic: Metrics
 uuid: a224499a-5a51-4ca5-a37b-06792b774671
+exl-id: 31201bec-e823-47b1-8912-2f8d69cea5be
 ---
-
 # Acquisition prerequisites{#acquisition-prerequisites}
 
 Complete the following prerequisites before you use acquisition links.

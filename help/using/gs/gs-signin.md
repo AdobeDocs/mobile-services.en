@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Signing In
 topic: Metrics
 uuid: d6ea0ca1-3511-4133-9d41-21ea2d2f7b3a
+exl-id: 12b447bd-f53b-43b4-b333-6b805f42fb75
 ---
-
 # Signing In {#signing-in}
 
 You can sign in to Adobe Mobile Services by using a web browser.

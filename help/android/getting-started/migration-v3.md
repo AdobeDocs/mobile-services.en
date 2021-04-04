@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Migrating to the Android 4.x Library
 topic: Developer and implementation
 uuid: 906e83bb-2faf-4aa2-ac9b-3fba6b833c7e
+exl-id: 8061c1ab-aaaf-4d4c-9bd5-b2f80b6b06a3
 ---
-
 # Migrating to the Android 4.x library {#migrating-to-the-android-x-library}
 
 This information helps you migrate from the 3.x or 2.x version of the Android library to version 4.x.
@@ -183,4 +183,3 @@ Remove calls to the following methods:
 ## Products variable {#section_AFBA36F3718C44D29AF81B9E1056A1B4}
 
 For more information about the products variable, see [Products variable](/help/android/analytics-main/products/products.md).
-

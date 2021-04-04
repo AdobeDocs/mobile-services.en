@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Experience Cloud ID configuration
 topic: Developer and implementation
 uuid: 8ebdf2bf-c581-448f-9542-f99a19784fe7
+exl-id: 97dc6768-bf31-4a0d-a460-9caf9ecda5fb
 ---
-
 # Experience Cloud ID configuration {#experience-cloud-id-configuration}
 
 The Adobe Experience Platform Identity Service provides a universal visitor ID across Experience Cloud solutions. The ID service is required by Analytics for Target, video heartbeat, and future Experience Cloud integrations.
@@ -52,4 +52,4 @@ To enable the Experience Cloud ID:
 
    If these IDs are not configured, download an updated `ADBMobileConfig.json` file from Adobe Mobile services. For more information, see [Before You Start](/help/android/getting-started/requirements.md).
 
-After the configuration is complete, a Experience Cloud ID is generated and is included on all hits. Other IDs, such as custom and automatically-generated IDs, continue to be sent with each hit. 
+After the configuration is complete, a Experience Cloud ID is generated and is included on all hits. Other IDs, such as custom and automatically-generated IDs, continue to be sent with each hit.

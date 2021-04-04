@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Configure App to use APNS or FCM
 topic: Metrics
 uuid: fa411f2a-ba47-4499-bbe5-1aedef6b49ad
+exl-id: 9064e1f3-f176-4699-b1e6-90f29e1af0d3
 ---
-
 # Configure your app to use APNS or FCM{#configure-app-to-use-apns-or-fcm}
 
 You can configure your app to use Apple Push Notification Service (APNS) or Firebase Cloud Messaging (FCM).
@@ -119,4 +119,3 @@ To get your SSL certificate and private key (APNS):
    You do not have to type a password. 
 
 1. In the **[!UICONTROL Private Key]**, type the `.p12` file.
-

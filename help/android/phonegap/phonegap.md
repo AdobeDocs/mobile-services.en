@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: PhoneGap plug-in overview
 topic: Developer and implementation
 uuid: c5c32357-d8df-458a-b0e8-e0c56040241d
+exl-id: ecd756ca-e333-4d28-bd1e-a75ffc6ebe22
 ---
-
 # PhoneGap plug-in overview {#phonegap-plug-in}
 
 This plug-in allows you to send Android AppMeasurement calls from your PhoneGap project. To create a PhoneGap project, see [PhoneGap](https://helpx.adobe.com/experience-manager/6-4/mobile/using/phonegap.html).
@@ -119,4 +119,3 @@ In `html` files, add the following to the `<head>` tag where you want to use tra
 ```
 <script type="text/javascript" charset="utf-8" src="ADB_Helper.js"></script>
 ```
-

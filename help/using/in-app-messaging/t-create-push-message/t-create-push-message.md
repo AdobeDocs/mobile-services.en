@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Create a push message
 topic: Metrics
 uuid: fb2a6026-f7e6-40e6-999e-b43db35d6c69
+exl-id: e7ad3797-17c7-41ad-8b65-d9f8e5b01960
 ---
-
 # Create a push message {#create-a-push-message}
 
 You can send push messages to Analytics segments from the Mobile Services UI to leverage your robust Analytics data while engaging with users.

@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Add a New App
 topic: Metrics
 uuid: 706b5e4d-1318-4a9e-8c69-ffabf51fa02c
+exl-id: 30dca517-61ac-495b-aa91-3febd1cb8639
 ---
-
 # Add a new app{#add-a-new-app}
 
 You can use this information to create a new app and configure its key metrics;configure the SDK options for Adobe Analytics and Adobe Audience Manager; configure acquisition and ID service options; and download the configuration file, SDKs, and developer and tester tools.

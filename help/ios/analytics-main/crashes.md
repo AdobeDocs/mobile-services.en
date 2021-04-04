@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Track App Crashes
 topic: Developer and implementation
 uuid: 4f81988b-198a-4ba9-ad53-78af90e43856
+exl-id: d6b4c763-7e02-42d0-aaf2-cda8640e5b9f
 ---
-
 # Track app crashes {#track-app-crashes}
 
 This information helps you understand how crashes are tracked and the best practices to handle false crashes.
@@ -63,4 +63,3 @@ The following practices can help you prevent false crashes from being reported:
 * Do not delete or modify any values that the AdobeMobile SDK puts in `NSUserDefaults`.
 
   If these values are modified outside the SDK, the reported data will be invalid.
-

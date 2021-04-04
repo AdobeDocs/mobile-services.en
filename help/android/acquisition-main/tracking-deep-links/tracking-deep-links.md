@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Tracking Deep Links
 topic: Developer and implementation
 uuid: ebb1c08c-a246-40b3-9ac6-4606a14b4c5a
+exl-id: 4f59b77d-3cac-4853-bb6b-50a403036771
 ---
-
 # Tracking deep links
 
 You can use this information to track deep and deferred deep links in your mobile apps by using the Adobe Mobile Android SDK.
@@ -65,4 +65,3 @@ With a deferred deep link, the Adobe SDK will open a new Intent with the deep li
  */
 public static final String ADB_MESSAGE_DEEPLINK_KEY = "adb_deeplink";
 ```
-

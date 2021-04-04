@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Target configuration
 topic: Developer and implementation
 uuid: 09fe2c9c-7b60-49c3-bb9d-36a30ce7c350
+exl-id: dbcc3114-e76b-4b18-a418-ac46a21a593e
 ---
-
 # Target configuration {#target-configuration}
 
 You can deliver targeted content in Android applications.
@@ -28,4 +28,4 @@ public void onCreate(Bundle savedInstanceState) {
 }
 ```
 
-If you already added this method call when you implemented Analytics or Audience Management, you do not need to add it again. 
+If you already added this method call when you implemented Analytics or Audience Management, you do not need to add it again.

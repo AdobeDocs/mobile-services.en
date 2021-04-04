@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Adobe Experience Platform Identity Service methods
 topic: Developer and implementation
 uuid: c5107a7e-273b-4f71-8738-4c603479b24c
+exl-id: 8eb98c3f-c6ef-4593-ad3a-f566f4d4b6a2
 ---
-
 # Adobe Experience Platform Identity Service methods{#experience-cloud-id-service-methods}
 
 Here are the Experience Cloud ID methods that are provided by the Android library.

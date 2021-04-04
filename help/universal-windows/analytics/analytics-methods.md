@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Analytics methods
 topic: Developer and implementation
 uuid: cc299bb5-ec61-49bf-869a-f3c3bc83359f
+exl-id: 3ceaedfa-274f-4dc7-9e4c-15233d09f935
 ---
-
 # Analytics methods {#analytics-methods}
 
 Information to help you use the Universal Windows Platform SDK with Adobe Analytics.

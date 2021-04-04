@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: iOS Device Versions
 topic: Developer and implementation
 uuid: 8b8a9bc3-0737-4de2-9792-0b112aa4cf65
+exl-id: 9aaf2f35-4de9-47a0-8e9d-8d098dfaadef
 ---
-
 # iOS device versions {#ios-device-versions}
 
 The following table contains the iOS version string that is sent by many iOS devices.
@@ -90,4 +90,3 @@ For more information about iOS devices, go to sites such as [The iPhone Wiki](ht
 |  iPad Pro 2, 12.9 inches (LTE)  | iPad7,2  |
 |  iPad Pro, 10.5 inches (Wi-Fi)  | iPad7,3  |
 |  iPad Pro, 10.5 inches (LTE)  | iPad7,4  |
-

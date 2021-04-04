@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Manage Messages
 topic: Metrics
 uuid: 4d934ede-0c68-4dd5-ba37-9caf727cc717
+exl-id: 96436104-fe5d-4f50-80a9-9b6ad7401de2
 ---
-
 # Manage Messages{#manage-messages}
 
 View a list of your in-app and push messages with details about when each message was last updated and whether the messages are live or have been deactivated.
@@ -59,4 +59,3 @@ Here is additional information about the tasks you can complete on messages:
 
     1. Click **[!UICONTROL View Archive]**. 
     1. Select the checkbox next to at least one archived message and click **[!UICONTROL Unarchive Selected]**.
-

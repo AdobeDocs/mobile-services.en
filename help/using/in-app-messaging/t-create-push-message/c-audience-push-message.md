@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Audience  Define and Configure Audience Segments for Push Messages
 topic: Metrics
 uuid: efd410e7-3b6c-4cf4-a26f-b11688adc491
+exl-id: d1062a76-2e72-4649-8497-58617a7a47cb
 ---
-
 # Audience: push messages{#audience-define-and-configure-audience-segments-for-push-messages}
 
 You can define and configure audience options for push messages, including date range options, Analytics segments, and custom segments.

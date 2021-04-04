@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Manage Link Destinations
 topic: Metrics
 uuid: 3a38d40d-b4c7-4f9f-aa6e-979613faaba2
+exl-id: 5d2ab0db-6371-434e-bf92-6013e78c8d8f
 ---
-
 # Manage link destinations{#manage-link-destinations}
 
 You can use the Link Destinations page to edit, archive, unarchive, or delete existing destination.
@@ -55,4 +55,3 @@ To display the Manage Link Destinations page:
      >[!IMPORTANT]
      >
      >Deleting a link destination is **permanent**. If you are unsure whether you want to delete a link destination, use the archive option.
-

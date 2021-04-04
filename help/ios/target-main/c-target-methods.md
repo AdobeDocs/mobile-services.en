@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Target Methods for iOS
 topic: Developer and implementation
 uuid: 692bcda1-02ba-4902-bd65-15888adf1952
+exl-id: ba03f865-970c-4b48-af35-749f05b273d8
 ---
-
 # Target methods for iOS {#target-methods}
 
 Here is the list of Adobe Target methods that are provided by the iOS library.

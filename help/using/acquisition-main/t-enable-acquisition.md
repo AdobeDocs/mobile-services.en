@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Configure Acquisition
 topic: Metrics
 uuid: e996e43e-8a77-47a3-a6fb-53f676f92bef
+exl-id: 3a12dfab-70d0-41e6-8d4e-5aba21bb8606
 ---
-
 # Configure Acquisition {#configure-acquisition}
 
 Acquisition tracking must be enabled in the SDK configuration before you can track and report on Marketing Links.

@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Apple Watch Implementation with WatchOS 2
 topic: Developer and implementation
 uuid: 9498467e-db5e-411e-a00e-d19841f485de
+exl-id: 9fc9b799-1081-42e4-acf3-569fdeb07aff
 ---
-
 # Apple Watch implementation with WatchOS 2{#apple-watch-implementation-with-watchos}
 
 Starting with WatchOS 2, your WatchKit Extensions can run on an Apple Watch. Applications that run in this environment require the `WatchConnectivity` framework to share data with their containing iOS app.
@@ -157,4 +157,3 @@ Remember the following information:
 * For WatchKit apps, `a.RunMode` will be set to `Extension`. 
 * Because WatchKit apps run on the watch, the apps will correctly report their names in `a.AppID`. 
 * No lifecycle call is triggered on WatchOS2 apps.
-

@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Create and Manage Link Destinations
 topic: Metrics
 uuid: 43930e3a-6a11-40c6-8a61-6732a673dac7
+exl-id: 53e9f970-e53c-4c0d-9214-abb01a9b144b
 ---
-
 # Create and manage link destinations{#create-and-manage-link-destinations}
 
 In the Manage Link Destinations page, you can create, edit, archive/unarchive, and delete link destinations. These destinations can be called inline when building Marketing Links, push notifications, or in-app messages.
@@ -24,4 +24,3 @@ The Link Destinations page displays your link destinations and provides options 
 For example:
 
 ![](assets/link_destinations_list.png)
-

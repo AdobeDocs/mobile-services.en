@@ -3,8 +3,8 @@ title: Developer Quick Start
 seo-title: BlackBerry Developer Quick Start for Adobe Mobile Services
 description: The BlackBerry Developer Quick Start Guide helps you understand the process to implement the BlackBerry library for Adobe Mobile Services.
 seo-description: The BlackBerry Developer Quick Start Guide helps you understand the process to implement the BlackBerry library for Adobe Mobile Services.
+exl-id: 65f39667-541a-4bbd-af9b-823638aa6f42
 ---
-
 # Developer quick start
 
 This information helps you understand the process to implement the BlackBerry library.

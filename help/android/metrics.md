@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Lifecycle metrics
 topic: Developer and implementation
 uuid: a8f3ebac-be3b-4948-82bb-105d46cfff6d
+exl-id: 1e50318d-894c-4039-ba45-71cb9edbc5b5
 ---
-
 # Lifecycle metrics{#lifecycle-metrics}
 
 This section provides information about the metrics and dimensions that can be measured automatically by the mobile library, after lifecycle is implemented, and a link to troubleshoot Lifecycle data. For more information about troubleshooting, go to [Troubleshoot Lifecycle data](https://helpx.adobe.com/analytics/kb/troubleshoot-lifecycle-data.html).
@@ -329,4 +329,4 @@ The following metrics and dimensions are captured in mobile solution variables b
   Paid keywords or other terms that you want to track with this acquisition. Populated by Mobile App Acquisition.
 
   * Analytics Context Data/Target Parameters: `a.referrer.campaign.term`
-  * Audience Manager Trait: `c_a_referrer_campaign_term`  
+  * Audience Manager Trait: `c_a_referrer_campaign_term`

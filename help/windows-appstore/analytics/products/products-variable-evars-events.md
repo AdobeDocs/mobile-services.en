@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Products Variable with Merchandising eVars and Product-Specific Events
 topic: Developer and implementation
 uuid: 94e882e4-b19d-4c48-9dfb-331465490347
+exl-id: 3a90f624-da13-4c26-9e4c-3a4af33bc5ee
 ---
-
 # Products variable with merchandising eVars and product-specific events{#products-variable-with-merchandising-evars-and-product-specific-events}
 
 An example of the products variable with Merchandising eVars and product-specific events.
@@ -34,4 +34,3 @@ ADB.Analytics.trackState("Order Confirmation", cdata);
 >[!TIP]
 >
 >If you trigger a product-specific event using the *`&&products`* variable, you must also set that event in the *`&&events`* variable, otherwise the event is filtered out during processing.
-

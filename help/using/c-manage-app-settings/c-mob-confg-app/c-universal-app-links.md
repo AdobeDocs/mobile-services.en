@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Universal Links and App Links Guide
 topic: Metrics
 uuid: 8d6441dc-4307-4454-95ea-d77ec796f918
+exl-id: 6613189f-7a14-4066-89e9-996d4fe7f128
 ---
-
 # Universal Links vs. App Links: How do they work? {#universal-links-and-app-links}
 
 Universal Links (iOS) and App Links (Android) allow you to connect to deep links in your iOS or Android apps.
@@ -149,5 +149,4 @@ You can now use these Marketing Links in messaging and other areas in your app.
 
 >[!IMPORTANT]
 >
->You will not see click tracking counts with Universal Links or App Links, and you can also not use interstitials. 
-
+>You will not see click tracking counts with Universal Links or App Links, and you can also not use interstitials.

@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Customize Reports
 topic: Reports,Metrics
 uuid: 39ba9af3-eaee-44b9-bea4-c8f43a0d2a6c
+exl-id: 287b12fb-96f8-4fa9-a4f4-7325e30e1797
 ---
-
 # Customize reports{#customize-reports}
 
 This information helps you understand and customize the built-in reports.
@@ -38,4 +38,3 @@ The following information describes each area of the report and the **[!UICONTRO
 |6|With **[!UICONTROL Sticky Filter]**, you can create a filter that spans different reports. For example, you might want to see how a particular segment is performing across all mobile reports. A sticky filter lets you define a filter that is applied to all non-pathing reports.  For more information, see [Add Sticky Filter](/help/using/usage/reports-customize/t-sticky-filter.md).|
 |7|The **[!UICONTROL Data Chart]** displays data in an appropriate chart based on the selected metrics. Chart types include line charts, bar charts, donut charts, etc.|
 |8|The **[!UICONTROL Data Table]** displays data in tabular form. You can click a column header to sort the data in ascending or descending order.|
-

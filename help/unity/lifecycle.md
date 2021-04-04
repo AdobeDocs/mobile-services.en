@@ -6,8 +6,8 @@ seo-title: Implement Lifecycle
 solution: Experience Cloud
 title: Implement Lifecycle
 uuid: 7ff2c194-569c-42a6-922d-dccd2aa9eb8d
+exl-id: eca0cebb-6c69-4b0f-b003-c7fc422d0383
 ---
-
 # Implement Lifecycle{#implement-lifecycle}
 
 For more information about the metrics and dimensions that can be measured automatically by the mobile library after lifecycle is implemented, see [Lifecycle Metrics in Android](/help/android/metrics.md) or [Lifecycle in iOS](/help/ios/metrics.md).
@@ -59,4 +59,3 @@ void OnEnable()
  }
 
 ```
-

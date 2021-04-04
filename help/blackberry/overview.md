@@ -4,8 +4,8 @@ seo-description: BlackBerry 10 SDK 4.x for Experience Cloud Solutions lets you m
 seo-title: BlackBerry 10 SDK 4.x for Experience Cloud Solutions
 title: BlackBerry 10 SDK 4.x for Experience Cloud Solutions
 uuid: c336db33-2cb5-48fe-a3f5-2d3ced6c3966
+exl-id: 4ecd9cdd-bca5-4a30-bc22-0e38918eefd3
 ---
-
 # BlackBerry 10 SDK 4.x for Experience Cloud Solutions {#blackberry-sdk-x-for-experience-cloud-solutions}
 
 BlackBerry 10 SDK 4.x for Experience Cloud Solutions lets you measure native BlackBerry 10 applications by using Adobe Analytics.
@@ -36,4 +36,4 @@ For more information about the release notes for all solutions, see [Adobe Exper
 
 >[!IMPORTANT]
 >
->As of **April 30, 2017**, Adobe Bloodhound has been sunset. Starting on May 1, 2017, no additional enhancements and no additional Engineering or Adobe Expert Care support will be provided. 
+>As of **April 30, 2017**, Adobe Bloodhound has been sunset. Starting on May 1, 2017, no additional enhancements and no additional Engineering or Adobe Expert Care support will be provided.

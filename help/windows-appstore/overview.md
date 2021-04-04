@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Windows 8.1 Universal App Store SDK 4.x for Experience Cloud Solutions
 topic: Developer and implementation
 uuid: a06d8cf2-5d2d-49a8-86ac-102e2934ea59
+exl-id: 5c511dea-99d8-40e9-a98f-8bc3cad937b8
 ---
-
 # Windows 8.1 Universal App Store SDK 4.x for Experience Cloud Solutions{#windows-universal-app-store-sdk-x-for-experience-cloud-solutions}
 
 Windows 8.1 Universal App Store SDK 4.x for Experience Cloud Solutions lets you measure native Windows 8.1 and Windows Phone 8.1 applications, deliver targeted content in your app, and leverage and collect audience data through Audience Manager.
@@ -36,4 +36,4 @@ Learn more at [Adobe Mobile services documentation](/help/using/home.md).
 
 >[!IMPORTANT]
 >
->As of **April 30, 2017**, Adobe Bloodhound has been sunset. Starting on May 1, 2017, no additional enhancements and no additional Engineering or Adobe Expert Care support will be provided. 
+>As of **April 30, 2017**, Adobe Bloodhound has been sunset. Starting on May 1, 2017, no additional enhancements and no additional Engineering or Adobe Expert Care support will be provided.

@@ -4,8 +4,8 @@ seo-description: Experience Cloud Mobile SDKs provide General Data Protection Re
 seo-title: Privacy and General Data Protection Regulation
 title: Privacy and General Data Protection Regulation
 uuid: 69bb82de-1993-440c-a1b0-8d37919b48b6
+exl-id: 8549310d-31b8-49a3-9276-f8e9ab980a10
 ---
-
 # Privacy and General Data Protection Regulation {#privacy-and-general-data-protection-regulation}
 
 Experience Cloud Mobile SDKs provide General Data Protection Regulation (GDPR)-ready APIs for Controllers that allow users to retrieve locally stored identities and set opt status flags for data collection and transmission.
@@ -46,4 +46,3 @@ For the Adobe Mobile SDK portions of your mobile apps, you can use the following
 
 * For more information about GDPR, see [GDPR and Your Business](https://www.adobe.com/privacy/general-data-protection-regulation.html). 
 * To see the GDPR API documentation, go to [General Data Protection Regulation API](https://adobe.io/apis/cloudplatform/gdpr.html).
-

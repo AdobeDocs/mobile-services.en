@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Troubleshoot In-App Messaging
 topic: Metrics
 uuid: 39c3a21d-92c2-4004-b00f-99b6f91d3696
+exl-id: 6c7d97ed-3b0a-48ff-b761-1485aea5e96d
 ---
-
 # Troubleshoot in-app messaging{#troubleshooting-in-app-messaging}
 
 This information helps you troubleshoot in-app messaging.
@@ -65,4 +65,3 @@ Here is the exact placement and sizing rules for each orientation:
   * The width is 75% of the device, with a fade out on the right.
   
   If you have issues with the full-screen template, you can download and use the Custom HTML template. This template provides more flexibility for images and allows full control of the template.
-

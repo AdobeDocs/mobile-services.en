@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Messaging overview
 topic: Developer and implementation
 uuid: c6475ab4-015d-46b0-af28-5d0df3f4459e
+exl-id: 26142589-c14a-4818-a913-e03fe9c59c73
 ---
-
 # Messaging overview {#messaging}
 
 The information in this section helps you use messaging in your Android apps.
@@ -20,4 +20,3 @@ As of September 2018, we released a new, major version of the SDK. These new Ado
 
 * To get started, go to Adobe Experience Platform Launch.
 * To see what is in the Experience Platform SDK repositories, go to [Github: Adobe Experience Platform SDKs](https://github.com/Adobe-Marketing-Cloud/acp-sdks).
-

@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Audience Manager Methods
 topic: Developer and implementation
 uuid: 97658bd6-4c4f-4875-abe9-36dad4ec8bae
+exl-id: b843a52f-2b83-4e19-9f43-895bd582d4ef
 ---
-
 # Audience Manager methods {#audience-manager-methods}
 
 Here is a list of the Audience Manager methods that are provided by the iOS library.

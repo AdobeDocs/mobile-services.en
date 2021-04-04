@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Configure SDK Analytics Options
 topic: Metrics
 uuid: fd3a21d2-6560-4e96-92fe-b99caac5e834
+exl-id: f2c35b65-1052-4bfc-af9d-8778e4ff0522
 ---
-
 # Configure SDK Analytics options {#configure-sdk-analytics-options}
 
 You can configure the SDK Analytics options on the Manage App Settings page while creating a new app or editing an existing app.

@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Manually create Acquisition links
 topic: Metrics
 uuid: d7709203-f793-4982-adaa-9c3c914aca2b
+exl-id: aef9fe3e-32dc-4ec0-9eda-f64cc5e486a3
 ---
-
 # Manually create Acquisition links {#create-acquisition-link-manually}
 
 You can create Marketing Links to acquire new mobile app users on-the-fly by manually configuring the URL parameters.
@@ -139,4 +139,3 @@ When you manually create acquisition links, remember the following information:
   An example of a store ID is `a_g_id`/ `a_i_id`. 
 
 * If the destination store cannot be automatically determined, and no default is provided, an 404 error is returned.
-

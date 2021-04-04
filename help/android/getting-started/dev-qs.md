@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Core Implementation and Lifecycle
 topic: Developer and implementation
 uuid: af4d11ac-8245-46a0-9b3a-4a0a29cfbbb2
+exl-id: 67aba85a-42a0-473a-bb05-e5fcb35263d9
 ---
-
 # Core implementation and lifecycle {#core-implementation-and-lifecycle}
 
 This information helps you implement the Android library and collect lifecycle metrics, such as launches, upgrades, sessions, engaged users, and so on.
@@ -149,4 +149,3 @@ Complete the following tasks:
 
 * [Track App States](/help/android/analytics-main/states.md) 
 * [Track App Actions](/help/android/analytics-main/actions.md)
-

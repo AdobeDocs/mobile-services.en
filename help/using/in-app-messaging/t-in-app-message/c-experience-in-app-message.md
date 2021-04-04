@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Experience  In-App Message
 topic: Metrics
 uuid: 4c6d6756-47fb-4f1b-8338-0b0c9b0fceb0
+exl-id: eeb1527d-c546-4951-9947-db810fdb8eee
 ---
-
 # Experience: in-app message {#experience-in-app-message}
 
 Configure experience options for in-app messages, including type (full screen, alert, or notification) and display, text, and button options.

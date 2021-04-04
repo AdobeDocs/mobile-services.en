@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Audience Manager configuration
 topic: Developer and implementation
 uuid: f68d5b2e-fa2c-4db6-98ad-d1855a2c45ac
+exl-id: 05033748-5461-482f-a01d-1ba73f64616a
 ---
-
 # Audience Manager configuration{#audience-manager-configuration}
 
 You can send signals and retrieve visitor segments from Audience Manager.
@@ -28,4 +28,4 @@ public void onCreate(Bundle savedInstanceState) {
 }
 ```
 
-If you added this method call when you implemented Analytics or Target, you do not need to add it again. 
+If you added this method call when you implemented Analytics or Target, you do not need to add it again.

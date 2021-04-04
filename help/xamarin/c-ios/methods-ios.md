@@ -6,8 +6,8 @@ seo-title: iOS methods
 solution: Experience Cloud
 title: iOS methods
 uuid: d6a056db-80c1-44d0-970f-c961ad01b0bc
+exl-id: 92897d08-2b66-4688-9870-c877bea53cfc
 ---
-
 # iOS methods{#ios-methods}
 
 iOS methods for Xamarin components for Experience Cloud solutions 4.x SDK.

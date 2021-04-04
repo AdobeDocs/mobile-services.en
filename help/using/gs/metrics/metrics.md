@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Mobile Metrics
 topic: Metrics
 uuid: c4457f4a-9d1c-4fe9-ad4a-9eb2e37feab7
+exl-id: 13912d5e-9813-4f8f-80d5-1f3cfcdd6aa3
 ---
-
 # Mobile metrics{#mobile-metrics}
 
 You can measure different metrics by using Adobe Mobile and collect the metrics that you want to track for your app.
@@ -53,4 +53,4 @@ The following types of metrics are measured:
 
 * **Devices**
 
-  Device reports allows you see the different device types, operating systems, and mobile carriers where your app is being used. This information is useful to plan support for the next version or to segment reports and target content. 
+  Device reports allows you see the different device types, operating systems, and mobile carriers where your app is being used. This information is useful to plan support for the next version or to segment reports and target content.

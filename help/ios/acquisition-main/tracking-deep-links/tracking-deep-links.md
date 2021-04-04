@@ -5,8 +5,8 @@ seo-title: Tracking deep links
 solution: Experience Cloud,Analytics
 title: Tracking deep links
 uuid: 08dc2820-7fd3-419f-ac2d-dcf12532578a
+exl-id: a8b20233-d800-4318-ad4f-39229d8b3a5e
 ---
-
 # Tracking deep links{#tracking-deep-links}
 
 You can use this information to track deep and deferred deep links in your mobile apps by using the Adobe Mobile iOS SDK.
@@ -97,4 +97,3 @@ These keys are pre-mapped variables for reporting in Adobe Analytics. For more i
  */ 
 FOUNDATION_EXPORT NSString *const __nonnull ADBConfigKeyCallbackDeepLink;
 ```
-

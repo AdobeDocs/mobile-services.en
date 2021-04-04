@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Hit batching
 topic: Developer and implementation
 uuid: 3dda7372-0695-4cb7-b779-6abca2d6e0d9
+exl-id: af21f435-13cb-4353-9fbb-c99274bce411
 ---
-
 # Hit batching {#hit-batching}
 
 Hit batching allows applications that have offline tracking enabled to hold hits from being sent until the number of hits in the queue pass a configurable limit.
@@ -36,4 +36,3 @@ The following methods are used with hit batching:
 >[!CAUTION]
 >
 >Offline tracking must be enabled to use hit batching.
-

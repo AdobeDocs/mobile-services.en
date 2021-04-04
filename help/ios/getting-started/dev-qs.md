@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Core Implementation and Lifecycle
 topic: Developer and implementation
 uuid: 96d06325-e424-4770-8659-4b5431318ee3
+exl-id: 5fb2d534-c2e8-480a-aaee-0e71dd55feb6
 ---
-
 # Core implementation and lifecycle {#core-implementation-and-lifecycle}
 
 This information helps you implement the iOS library and collect lifecycle metrics, such as launches, upgrades, sessions, engaged users, and so on.

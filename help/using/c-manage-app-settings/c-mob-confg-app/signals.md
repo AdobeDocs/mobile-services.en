@@ -4,8 +4,8 @@ seo-description: Postbacks let you send data collected by Adobe Mobile to a sepa
 seo-title: Configure Postbacks
 title: Configure Postbacks
 uuid: a026575c-057b-4868-b6c8-9514cbc32b4d
+exl-id: 99b27f16-303a-4853-bfdb-2066a53867bf
 ---
-
 # Configure postbacks {#configure-postbacks}
 
 Postbacks let you send data collected by Adobe Mobile to a separate third-party server. By leveraging the same triggers and traits that you use to display an in-app message, you can configure Mobile Services to send customized data to a third-party destination.

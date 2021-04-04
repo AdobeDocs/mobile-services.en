@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Testing Marketing Link Acquisition
 topic: Developer and implementation
 uuid: d0933dcc-8fc3-4f60-987f-7a54559aacf5
+exl-id: 86fdaef7-5b6c-4e9d-a470-df66c96f2e9d
 ---
-
 # Testing Marketing Link acquisition {#testing-marketing-link-acquisition}
 
 The following instructions help you roundtrip an acquisition campaign with a Marketing Link on an Android device.

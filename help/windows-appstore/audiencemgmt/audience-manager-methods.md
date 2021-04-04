@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Audience Manager methods
 topic: Developer and implementation
 uuid: e39c9c3e-fd53-4b46-8fff-88101a064a9c
+exl-id: b10d7274-0fc6-4822-a40b-1192b71592b9
 ---
-
 # Audience Manager methods {#audience-manager-methods}
 
 List of Audience Manager methods provided by the Windows 8.1 Universal App Store library.
@@ -108,4 +108,3 @@ If audience manager is configured in your JSON file, a signal containing lifecyc
       // segments come back here in "visitorProfile", normally found in the "segs" object of your json 
     }); 
     ```
-

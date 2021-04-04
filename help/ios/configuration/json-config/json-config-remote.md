@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Override the ADBMobile JSON config path
 topic: Developer and implementation
 uuid: 0d1be674-c634-4a48-aa31-5701681911b9
+exl-id: 3a191e9c-905f-4bea-8a6f-5ccf5ea02aff
 ---
-
 # Override the ADBMobile JSON config path {#override-the-adbmobile-json-config-path}
 
 You can load a different ADBMobile JSON Config file when the application starts.
@@ -22,4 +22,3 @@ For example:
 NSString *filePath = [[NSBundle mainBundle] pathForResource:@"ExampleJSONFile" ofType:@"json"]; 
 [ADBMobile overrideConfigPath:filePath];
 ```
-

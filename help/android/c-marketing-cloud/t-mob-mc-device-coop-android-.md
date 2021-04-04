@@ -4,8 +4,8 @@ seo-description: To start using the Experience Cloud Device Co-op, contact your 
 seo-title: Experience Cloud Device Co-op
 title: Experience Cloud Device Co-op
 uuid: 7bb8a19c-4b80-4911-879d-f9941baa3b62
+exl-id: e34b8a7e-3b70-4725-94a5-9903987c34f8
 ---
-
 # Experience Cloud Device Co-op {#experience-cloud-device-co-op}
 
 To start using the Experience Cloud Device Co-op, contact your Adobe representative.
@@ -42,4 +42,4 @@ For Device Co-op members who require this value set to `true`, you need to work 
 Remember the following information: 
 
 * When `coopUnsafe` is set to `true`, `coop_unsafe=1` will always be appended to Audience Manager and Visitor ID hits.
-* If you enable Analytics server-side forwarding to Audience Manager, you will also see `coop_unsafe=1` Analytics hits. 
+* If you enable Analytics server-side forwarding to Audience Manager, you will also see `coop_unsafe=1` Analytics hits.

@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Manage Marketing Links
 topic: Metrics
 uuid: 98ac3520-89ed-4513-83f6-120dda9d0157
+exl-id: 678c18fe-b282-4eab-a248-e00dfd53cecd
 ---
-
 # Manage Marketing Links{#manage-marketing-links}
 
 You can use the Marketing Links page to create, use, and archive Marketing Links.
@@ -31,4 +31,3 @@ On the Marketing Links page, complete the following tasks:
   * To unarchive a marketing clink, click **[!UICONTROL View Archive]**, select a link and click **[!UICONTROL Unarchive Selected]**. 
   
       Only previously archived Marketing Links are displayed in the View Archive page.
-

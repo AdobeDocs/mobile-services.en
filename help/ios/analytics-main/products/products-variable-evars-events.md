@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Products Variable with Merchandising eVars and Product-Specific Events
 topic: Developer and implementation
 uuid: f913211e-97ad-4237-bfe4-7ded01295caf
+exl-id: f438190d-0d2d-4bcd-a1c7-156e46e61162
 ---
-
 # Products variable with merchandising eVars and product-specific events {#products-variable-with-merchandising-evars-and-product-specific-events}
 
 Here is an example of the products variable with Merchandising eVars and product-specific events.
@@ -33,4 +33,3 @@ NSMutableDictionary *contextData = [NSMutableDictionary dictionary];
 >[!TIP]
 >
 >If you trigger a product-specific event by using the *`&&products`* variable, you must also set that event in the *`&&events`* variable. If you do not set that event, it is filtered out during processing.
-

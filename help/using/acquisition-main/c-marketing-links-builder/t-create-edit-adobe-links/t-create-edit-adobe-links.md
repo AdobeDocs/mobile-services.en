@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Create or Edit Marketing Links
 topic: Metrics
 uuid: 305a8265-38de-4d19-8c79-b3912f5aae7c
+exl-id: a9b5c98d-77c1-4a40-96e5-f9e234d55ec5
 ---
-
 # Create or edit marketing links{#create-or-edit-marketing-links}
 
 You can create or edit Marketing Links to provide deep linking to your mobile app or your website. For more information, see [Apple Universal Links and Android App Links](/help/using/c-manage-app-settings/c-mob-confg-app/c-universal-app-links.md).

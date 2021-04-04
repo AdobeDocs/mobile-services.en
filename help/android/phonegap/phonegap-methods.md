@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: PhoneGap plug-in methods
 topic: Developer and implementation
 uuid: bc3db9ce-81b7-45ec-88aa-6020c1db5d9c
+exl-id: 4e6cf200-c826-4b23-87cf-4b8e1e691981
 ---
-
 # PhoneGap plug-in methods{#phonegap-plug-in-methods}
 
 You can use Android PhoneGap Plug-in methods to complete a variety of tasks.

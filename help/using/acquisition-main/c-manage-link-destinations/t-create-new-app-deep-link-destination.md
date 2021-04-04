@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Create New Link Destination
 topic: Metrics
 uuid: 390e3dea-0221-4f97-980d-a90ca9f162fa
+exl-id: 2d2f5938-1461-43e2-a375-45c18afc9d5a
 ---
-
 # Create a new link destination {#create-new-link-destination}
 
 You can create a new link destination that directs users to a web or a deep link in your app.

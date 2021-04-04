@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Windows Visual Studio extensions for Experience Cloud Solutions 4.x SDK
 topic: Developer and implementation
 uuid: 7d0ea312-340b-46ea-a737-b70a6766a536
+exl-id: 63e9e5c7-2a12-47b3-a712-bf51e12821aa
 ---
-
 # Windows Visual Studio extensions for Experience Cloud Solutions 4.x SDK {#windows-visual-studio-extensions-for-experience-cloud-solutions-x-sdk}
 
 This Extensions provides you a much easier way to add the reference of Experience Cloud Solutions 4.x Windows SDK in you project.
@@ -33,4 +33,3 @@ This Extensions provides you a much easier way to add the reference of Experienc
    The Adobe Mobile SDK will be added to your project, and if it has not already been added, the **[!UICONTROL Microsoft Visual C++ Runtime]** package is also added. 
 
 1. In the Configuration Manager, select a Platform type, and begin testing your app.
-

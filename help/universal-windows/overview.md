@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Universal Windows Platform SDK 4.x for Experience Cloud Solutions
 topic: Developer and implementation
 uuid: 23a5bc0a-54f0-42a7-af1e-c8cbb509dfce
+exl-id: 3ae13dfc-a5ad-46d9-90e1-1e5e11b39f42
 ---
-
 # Universal Windows Platform SDK 4.x for Experience Cloud Solutions {#universal-windows-platform-sdk-x-for-experience-cloud-solutions}
 
 Universal Windows Platform SDK 4.x for Experience Cloud Solutions lets you measure native Windows 10 applications, deliver targeted content within your app, and leverage and collect audience data through audience management.
@@ -32,4 +32,4 @@ For more information, see the [Adobe Mobile services documentation](/help/using/
 
 >[!IMPORTANT]
 >
->As of **April 30, 2017**, Adobe Bloodhound has been sunset. Starting on May 1, 2017, no additional enhancements and no additional Engineering or Adobe Expert Care support will be provided. 
+>As of **April 30, 2017**, Adobe Bloodhound has been sunset. Starting on May 1, 2017, no additional enhancements and no additional Engineering or Adobe Expert Care support will be provided.

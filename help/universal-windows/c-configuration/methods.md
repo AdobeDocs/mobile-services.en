@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: SDK methods
 topic: Developer and implementation
 uuid: e3aa41d6-7bc0-4208-a662-12907c209a77
+exl-id: 0aac477c-074d-457c-b117-bb205119c475
 ---
-
 # SDK methods {#sdk-methods}
 
 Classes and methods provided by the Universal Windows Platform library.

@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Testing Legacy Acquisition
 topic: Developer and implementation
 uuid: bb7ace96-68eb-4f43-b3cf-af80730b9cee
+exl-id: 43e3b24e-e8bc-407c-b788-5ab85e459a90
 ---
-
 # Testing legacy acquisition {#testing-legacy-acquisition}
 
 The following information helps you roundtrip a legacy acquisition campaign link on an Android device.
@@ -38,4 +38,4 @@ If the broadcast is successful, a response similar to the one below is displayed
 Broadcasting: Intent { act=com.android.vending.INSTALL_REFERRER cmp=com.example.analyticsecommtest/com.google.analytics.tracking.android.AnalyticsReceiver has extras) } Broadcast completed: result=0
 ```
 
-You will also see an image request sent to Adobe's data collection servers. If the SDK waits for the complete duration of the referrer timeout, which you set in step 1, with an image request that does not include campaign parameters, the broadcast failed. 
+You will also see an image request sent to Adobe's data collection servers. If the SDK waits for the complete duration of the referrer timeout, which you set in step 1, with an image request that does not include campaign parameters, the broadcast failed.

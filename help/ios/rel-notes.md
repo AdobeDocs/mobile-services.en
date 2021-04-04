@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Release Notes
 topic: Developer and implementation
 uuid: e1613dc5-02a4-43a7-997a-29b4de98b4d1
+exl-id: dd1e6bab-65e7-4a68-b3ec-21fb1a08aca2
 ---
-
 # Release notes {#release-notes}
 
 Here is the release notes, known issues, and hot fix information for iOS SDKs 4.x for Experience Cloud Solutions:

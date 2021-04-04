@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Versions report
 topic: Reports,Metrics
 uuid: 67e759d3-7e4f-4985-9e74-61c782f0fbb5
+exl-id: c29bc404-892e-413f-a9e2-0c16bdef032d
 ---
-
 # Versions report {#versions}
 
 The Versions report is an over-time report that displays information about the different versions of your app that are running on a users' device.
@@ -16,4 +16,3 @@ The Versions report is an over-time report that displays information about the d
 Here is an example of this report:
 
 ![](assets/report_versions.png)
-

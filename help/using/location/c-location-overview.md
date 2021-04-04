@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Overview (Location)
 topic: Reports,Metrics
 uuid: a701abc3-001b-4015-843f-5fb2c6c80d17
+exl-id: 9a9f4f64-251f-48d4-a838-af14a357c575
 ---
-
 # Overview (Location){#overview-location}
 
 The **[!UICONTROL Location Overview]** report lets you see the different countries, regions, and points of interest (POI) where your app is being used.

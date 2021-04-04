@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Visitor lifetime value
 topic: Developer and implementation
 uuid: d830d18b-4313-43bb-8d75-3789869d0f1d
+exl-id: f1b684b1-9919-400d-a88a-6d4a0809d9e1
 ---
-
 # Visitor lifetime value {#visitor-lifetime-value}
 
 Lifetime value lets you measure and target on a lifetime value for each user.
@@ -44,4 +44,3 @@ NSMutableDictionary *contextData = [NSMutableDictionary dictionary];
 Context data values must be mapped to custom variables: 
 
 ![](assets/map-variable-context-ltv.png)
-

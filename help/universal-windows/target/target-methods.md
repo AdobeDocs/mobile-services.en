@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Target methods
 topic: Developer and implementation
 uuid: 2ad5953b-7850-446a-8053-b3715b86329b
+exl-id: d7aeee41-1c34-4f98-8455-e9f429287cfc
 ---
-
 # Target methods {#target-methods}
 
 List of Target methods provided by the Universal Windows Platform library.

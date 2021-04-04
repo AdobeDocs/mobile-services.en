@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Android Wearables  Getting Started
 topic: Developer and implementation
 uuid: bfe5d41e-b17c-4634-80ac-7a38671ecb81
+exl-id: 79cfaa48-d9b2-4518-8b31-d7041898a71b
 ---
-
 # Android Wearables: getting started{#android-wearables-getting-started}
 
 Starting in Android SDK version 4.5, a new Android extension was added that allows you to collect data from your Android Wearable app.
@@ -198,4 +198,3 @@ For more information about importing the SDK into your project, see [Core Implem
    Please find more information from google's blog https://android-developers.googleblog.com/2016/04/deprecation-of-bindlistener.html. 
    Permalink Edit
    ```
-

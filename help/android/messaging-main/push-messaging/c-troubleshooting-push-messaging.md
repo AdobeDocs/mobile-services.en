@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Troubleshoot Push Messaging
 topic: Metrics
 uuid: 9c4a9371-6691-4a2c-a6c1-b9f901a41599
+exl-id: 82b89f56-f43e-4b0d-80c5-5bff4013e5f7
 ---
-
 # Troubleshoot push messaging {#troubleshooting-push-messaging}
 
 This information helps you troubleshoot push messaging.
@@ -36,4 +36,4 @@ The following types of delays might be associated with push messages for Mobile 
 
 ## Why are my push messages being cut off or are not expanding?
 
-For some Android devices, you might need to use `NotificationCompat.BigTextStyle` when displaying messages. 
+For some Android devices, you might need to use `NotificationCompat.BigTextStyle` when displaying messages.

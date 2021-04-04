@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Apple Search Ads
 topic: Developer and implementation
 uuid: 790080e8-067e-4bfd-a169-0027db4fdff3
+exl-id: efcdd430-f08d-4ee2-85f3-2697c3bd72db
 ---
-
 # Apple Search Ads {#apple-search-ads}
 
 The Adobe SDK leverages Apple's Search Ads App Attribution APIs to enable developers and marketers to track and attribute app downloads that originate from Search Ads campaigns in the Apple App Store. For more information about Search Ad campaigns, see [Apple Search Ads](https://searchads.apple.com).

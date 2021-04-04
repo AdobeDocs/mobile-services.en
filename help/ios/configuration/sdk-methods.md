@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Configuration methods
 topic: Developer and implementation
 uuid: 623c7b07-fbb3-4d39-a5c4-e64faec4ca29
+exl-id: b6841808-8fa8-4090-8cb3-ce647a3d5d08
 ---
-
 # Configuration methods {#configuration-methods}
 
 Here is a list of methods that are provided by the iOS library.
@@ -380,4 +380,3 @@ typedef NS_ENUM(NSUInteger, ADBMobileAppExtensionType) {
     ADBMobileAppExtensionTypeStandAlone = 1 /*!< Enum value ADBMobileAppExtensionTypeStandAlone. */ 
 };
 ```
-

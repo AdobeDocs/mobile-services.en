@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Beacon tracking
 topic: Developer and implementation
 uuid: 16c1d267-85f4-4a6a-a6d3-d6ffb0f80b29
+exl-id: b8493e9d-ed1c-4404-a218-47a18a9c8faa
 ---
-
 # Beacon tracking {#beacon-tracking}
 
 Beacon tracking allows you to measure and target micro locations by using iBeacon and Bluetooth Low Energy.
@@ -76,4 +76,3 @@ Analytics.trackBeacon(beaconUUID, major, minor, proximity, cdata);
 Context data values must be mapped to custom variables in the Adobe Mobile services: 
 
 ![](assets/map-variable-context-ltv.png)
-

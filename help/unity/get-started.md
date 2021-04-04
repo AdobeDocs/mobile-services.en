@@ -6,8 +6,8 @@ seo-title: Unity Plug-in for the iOS and Android 4.x SDKs
 solution: Experience Cloud
 title: Unity Plug-in for the iOS and Android 4.x SDKs
 uuid: 83289a73-982d-4472-a8c8-00b562dc80f5
+exl-id: fdb012d0-64f5-4c63-96d7-508fef01041f
 ---
-
 # Unity Plug-in for the iOS and Android 4.x SDKs {#unity-plug-in-for-the-ios-and-android-x-sdks}
 
 This Plug-in lets you send Adobe Analytics calls from your Unity applications.

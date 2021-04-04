@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: ADBMobile JSON config
 topic: Developer and implementation
 uuid: d9708d59-e30a-4f6c-ab1b-d9499855d0c2
+exl-id: e3515de3-3aec-4dd0-996d-9c561ad1b1de
 ---
-
 # ADBMobile JSON config {#adbmobile-json-config}
 
 This information helps you use the `ADBMobile.json` config file.

@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Funnel report
 topic: Reports,Metrics
 uuid: 268b4ab9-2e29-4423-9f79-ad93f5231ede
+exl-id: 43f9d0aa-0651-42c6-85ea-307ed253cf8d
 ---
-
 # Funnel report{#funnel}
 
 The **[!UICONTROL Funnel]** report identifies where customers abandoned a marketing campaign or diverted from a defined conversion path while interacting with your mobile app. You can also use the **[!UICONTROL Funnel]** report to compare the actions of different segments.

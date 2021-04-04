@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Retention report
 topic: Reports,Metrics
 uuid: e7639e7f-c9ed-4b19-9ac5-b36774ea9dd6
+exl-id: de68f00a-5de0-4e9a-9255-207a1a44df6e
 ---
-
 # Retention report {#retention}
 
 The **[!UICONTROL Retention]** report (formerly known as First Launch Cohorts) is a cohort report that displays how many unique users launched your app for the first time and then launched the app again at least once in the subsequent months.
@@ -25,4 +25,4 @@ In the **[!UICONTROL MO]** column, the total number of people who launched the a
 
 To change the date range or to edit the report's rules, click **[!UICONTROL Edit]**.
 
-The report can be populated by any variable or metric, such as Lifecycle metrics but not calculated metrics. 
+The report can be populated by any variable or metric, such as Lifecycle metrics but not calculated metrics.

@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: App Store Overview Report
 topic: Metrics
 uuid: ac066f31-ec4b-4b67-b839-780c2cd1574e
+exl-id: da8663d6-9da8-440b-b7b8-06ff11e74b9f
 ---
-
 # App Store Overview report{#app-store-overview-report}
 
 The **[!UICONTROL App Store Overview]** report gives you a snapshot of your app store metrics, including the number of downloads, in-app purchases, app store average rating, download revenue, in-app revenue, downloads by country, downloads by app store, and in-app purchases by name.
@@ -71,4 +71,4 @@ To display a graph and chart that displays the number of downloads per app store
 
 ## In-App Purchases by Name {#section_D747A64F9F6449E0A02EF31D56C92F83}
 
-This report displays all in-app purchases by name. 
+This report displays all in-app purchases by name.

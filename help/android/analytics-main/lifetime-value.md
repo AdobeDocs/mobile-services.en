@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Visitor Lifetime Value
 topic: Developer and implementation
 uuid: ba0308de-282e-46f9-a14c-19fb6d5c363e
+exl-id: 93c6d711-c7c0-4fca-93b2-6a6fc19377bd
 ---
-
 # Visitor lifetime value {#visitor-lifetime-value}
 
 The lifetime value allows you to measure and target on a lifetime value for each Android user. The value can be used to store lifetime purchases, ad views, video completes, social shares, photo uploads, and so on.
@@ -44,4 +44,3 @@ Analytics.trackLifetimeValueIncrease(BigDecimal.valueOf(5.0), cdata);
 Context data values must be mapped to custom variables in Adobe Mobile services:
 
 ![](assets/map-variable-context-ltv.png)
-

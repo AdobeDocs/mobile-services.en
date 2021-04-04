@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Acquisition overview
 topic: Developer and implementation
 uuid: e22d2785-58f1-4841-9163-912c5e0f5d61
+exl-id: 0315f8ed-41cb-4a2c-bfe0-56bdebf1af52
 ---
-
 # Acquisition overview {#acquisition}
 
 This information helps you use acquisition tracking links in your in your Android apps.

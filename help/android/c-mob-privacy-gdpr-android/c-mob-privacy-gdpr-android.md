@@ -4,8 +4,8 @@ seo-description: Experience Cloud Mobile SDKs provide General Data Protection Re
 seo-title: Privacy and General Data Protection Regulation overview
 title: Privacy and General Data Protection Regulation overview
 uuid: 56d6f155-efec-4b3f-a972-a63155729167
+exl-id: 57696f2e-87f4-4f72-bec2-80c7192576f9
 ---
-
 # Privacy and General Data Protection Regulation overview {#privacy-and-general-data-protection-regulation}
 
 Experience Cloud Mobile SDKs provide General Data Protection Regulation (GDPR)-ready APIs for Controllers that allow users to retrieve locally stored identities and set opt status flags for data collection and transmission.

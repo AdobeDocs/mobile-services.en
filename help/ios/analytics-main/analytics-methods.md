@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Analytics methods
 topic: Developer and implementation
 uuid: d49fe6de-cb32-4b96-9891-c567310e59a6
+exl-id: 327ec44a-be15-47af-a2c8-a373124999ad
 ---
-
 # Analytics methods {#analytics-methods}
 
 Here is a list of Adobe Analytics methods that are provided by the iOS library.

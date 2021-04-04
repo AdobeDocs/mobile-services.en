@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Track App States
 topic: Developer and implementation
 uuid: 69c99d05-5816-4c86-97c5-d218dc26c129
+exl-id: ee1ea716-ee72-4c28-92cb-26df1327f5c6
 ---
-
 # Track app states {#track-app-states}
 
 States are the different screens or views in your application.
@@ -71,5 +71,3 @@ States are typically viewed by using a pathing report, which allows you to see h
 |Adobe Mobile Services | The **[!UICONTROL View States]** report. This report is based on the paths that the users took through your application. A sample path is  **[!UICONTROL Home]**  >  **[!UICONTROL Settings]**  > **[!UICONTROL Feed]**. |
 |Adobe Analytics|States can be viewed anywhere that Pages can be viewed, such as the **[!UICONTROL Pages]** report, the **[!UICONTROL Page Views]** report, and the **[!UICONTROL Path]** report. |
 |Ad hoc analytics|States can be viewed anywhere Pages can be viewed by using the **[!UICONTROL Page]** dimension, **[!UICONTROL Page Views]** metric, **[!UICONTROL Path]** reports. |
-
-

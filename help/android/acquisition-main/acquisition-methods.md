@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Acquisition Methods
 topic: Developer and implementation
 uuid: 22ec432f-e7ae-4e89-be07-26206bbeacf8
+exl-id: 0ce1b8fb-fd45-45de-8f97-e297e4c6529f
 ---
-
 # Acquisition methods{#acquisition-methods}
 
 The following Acquisition method is provided by the Android library:

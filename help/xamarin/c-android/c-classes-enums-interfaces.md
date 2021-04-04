@@ -4,8 +4,8 @@ seo-description: List of classes and enumerations for use in Xamarin application
 seo-title: Classes, enums, and interfaces
 title: Classes, enums, and interfaces
 uuid: 2527b3ae-a447-4b2e-9e90-b3b8ec8cb47a
+exl-id: 72bc40f6-005c-4fb4-b41d-761d48fe78da
 ---
-
 # Classes, enums, and interfaces{#classes-enums-and-interfaces}
 
 List of classes and enumerations for use in Xamarin applications.

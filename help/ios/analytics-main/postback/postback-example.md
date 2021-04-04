@@ -6,8 +6,8 @@ solution: Experience Cloud,Analytics
 title: Postback Example
 topic: Developer and implementation
 uuid: 809c5646-7a80-40df-984b-0af89d854259
+exl-id: 3ec5abf1-a406-48b6-91b1-fbcb0a9094ee
 ---
-
 # Postback example {#postback-example}
 
 Definition and source code examples for the Postbacks feature.
@@ -57,4 +57,4 @@ NSDictionary *contextData = @{@"user.name":@"bob", @"user.zip":@"90210"};
 
 Because its state is `“MainMenu”`, this tracking call triggers the above postback message. The URL replaces all template variables with values from the hit. Assuming that the user’s previous session was 132 seconds long, and that user is on iOS SDK version 4.6.0, here is an example of the resulting URL:
 
-`https://my.server.com/?user=bob&zip=90210&c16=4.6.0-iOS&c27=cln,132` 
+`https://my.server.com/?user=bob&zip=90210&c16=4.6.0-iOS&c27=cln,132`

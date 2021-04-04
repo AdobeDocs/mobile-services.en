@@ -5,8 +5,8 @@ seo-title: Testing Legacy Acquisition
 solution: Experience Cloud,Analytics
 title: Testing Legacy Acquisition
 uuid: e0591f4a-e26b-4fe4-97c1-a6831a926fa5
+exl-id: 431dc400-952a-4515-9d14-ba2efef4b2c4
 ---
-
 # Testing legacy acquisition {#testing-legacy-acquisition}
 
 The following information helps you roundtrip an legacy acquisition campaign link that is based on a device fingerprint.

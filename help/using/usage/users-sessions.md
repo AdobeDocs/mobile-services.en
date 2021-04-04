@@ -7,8 +7,8 @@ solution: Experience Cloud,Analytics
 title: Users and Sessions report
 topic: Reports,Metrics
 uuid: 6d70d7f6-de81-4307-a4f3-14f18fc3c9b3
+exl-id: a764a8a9-6490-4cb7-ad4f-68c9dd41c774
 ---
-
 # Users and sessions report{#users-and-sessions}
 
 The Users and Sessions report displays metrics for unique visitors during the selected time frame.

@@ -5,8 +5,8 @@ seo-title: Acquisition Methods
 solution: Experience Cloud,Analytics
 title: Acquisition Methods
 uuid: 6f88de57-793d-4d33-9a54-f6714289fd2c
+exl-id: dd2721ae-b9a6-48b9-bc92-8e12ee551929
 ---
-
 # Acquisition methods {#acquisition-methods}
 
 The following Acquisition methods are provided by the iOS library:
@@ -28,5 +28,3 @@ The following method is supported:
     ```objective-c
     [ADBMobile acquisitionCampaignStartForApp:@"0652024f-adcd-49f9-9bd7-2552a4564d2f" data:@{@"custom.key":@"value"}]; 
     ```
-
-

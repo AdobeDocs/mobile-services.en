@@ -4,8 +4,8 @@ seo-description: The general process to measure video is very similar across all
 seo-title: Video Analytics
 title: Video Analytics
 uuid: 0d2731f3-77a9-4db1-9a8c-1e56c212ecb4
+exl-id: 90da1a9e-2faa-429c-969e-869ebedf08cc
 ---
-
 # Video Analytics {#video-analytics}
 
 The general process to measure video is very similar across all AppMeasurement platforms. This section provides a basic overview of the developer tasks along with code samples.
