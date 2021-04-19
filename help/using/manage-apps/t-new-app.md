@@ -5,7 +5,7 @@ seo-description: You can use this information to create a new app and configure 
 seo-title: Add a New App
 solution: Experience Cloud,Analytics
 title: Add a New App
-topic: Metrics
+topic-fix: Metrics
 uuid: 706b5e4d-1318-4a9e-8c69-ffabf51fa02c
 exl-id: 30dca517-61ac-495b-aa91-3febd1cb8639
 ---

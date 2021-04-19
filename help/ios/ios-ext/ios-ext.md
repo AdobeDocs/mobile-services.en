@@ -4,7 +4,7 @@ seo-description: You can use the iOS extension helps you collect usage data from
 seo-title: iOS Extension Implementation
 solution: Experience Cloud,Analytics
 title: iOS Extension Implementation
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 8afc03fe-403e-4643-ada1-30e403ede238
 exl-id: 741b0cd5-6245-480a-b5bf-a33a1f82a425
 ---

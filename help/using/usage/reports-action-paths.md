@@ -5,7 +5,7 @@ seo-description: The Action Paths report is based on path analysis and displays 
 seo-title: Action Paths report
 solution: Experience Cloud,Analytics
 title: Action Paths report
-topic: Reports,Metrics
+topic-fix: Reports,Metrics
 uuid: a21e5d9e-fd57-4178-9d64-87181b7f988b
 exl-id: 4c97b07f-17df-49cb-b2f7-dcb682d9d3c6
 ---

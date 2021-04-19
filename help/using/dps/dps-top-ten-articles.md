@@ -5,7 +5,7 @@ seo-description: The Top 10 Articles report displays a sunburst visualization fo
 seo-title: Top 10 Articles
 solution: Experience Cloud,Analytics
 title: Top 10 Articles
-topic: Metrics
+topic-fix: Metrics
 uuid: cf53cc0b-7c84-41c8-97d5-d9ee833a916b
 exl-id: 93b3d0aa-83a3-4ee8-bc7f-fa30736a7749
 ---

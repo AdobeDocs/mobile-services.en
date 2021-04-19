@@ -5,7 +5,7 @@ seo-description: Here is some information about measuring video on Android by th
 seo-title: Video Analytics
 solution: Experience Cloud,Analytics
 title: Video Analytics
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: a137cc27-dc28-48c0-b08e-2ca17d2c7e1d
 exl-id: 1b7f5523-767a-45e8-b2e7-ecf9984849e4
 ---

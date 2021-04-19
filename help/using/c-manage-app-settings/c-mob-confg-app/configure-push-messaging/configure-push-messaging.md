@@ -5,7 +5,7 @@ seo-description: You can use this information to help you configure the Push Ser
 seo-title: Configure Push Messaging
 solution: Experience Cloud,Analytics
 title: Configure Push Messaging
-topic: Metrics
+topic-fix: Metrics
 uuid: 6763858d-6046-4d36-87c0-cf3600a44fb1
 exl-id: d4989c31-2692-4062-8fae-d41c3e3c179b
 ---

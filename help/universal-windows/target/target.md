@@ -4,7 +4,7 @@ seo-description: Information to help you deliver targeted content within Univers
 seo-title: Target
 solution: Experience Cloud,Analytics
 title: Target
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: c764e65c-476d-47a4-a463-ac232d011824
 ---
 

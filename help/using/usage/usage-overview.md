@@ -5,7 +5,7 @@ seo-description: The Overview report provides a snapshot of your key metrics.
 seo-title: Overview report
 solution: Experience Cloud,Analytics
 title: Overview report
-topic: Reports,Metrics
+topic-fix: Reports,Metrics
 uuid: 5f7088af-4b25-4fe5-afda-4844597c78f9
 exl-id: db681d0e-b784-4415-b248-f92df5b780cc
 ---

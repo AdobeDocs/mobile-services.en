@@ -5,7 +5,7 @@ seo-description: This information helps you understand and use with Adobe Mobile
 seo-title: Getting Started
 solution: Experience Cloud,Analytics
 title: Getting Started
-topic: Metrics
+topic-fix: Metrics
 uuid: a7ae7c5a-dab8-4603-b4cd-af73a2f09f71
 exl-id: 0c08e154-8747-45dc-9731-ab2a3e78bc5a
 ---

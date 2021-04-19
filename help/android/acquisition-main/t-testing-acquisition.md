@@ -5,7 +5,7 @@ seo-description: The following information helps you roundtrip a legacy acquisit
 seo-title: Testing Legacy Acquisition
 solution: Experience Cloud,Analytics
 title: Testing Legacy Acquisition
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: bb7ace96-68eb-4f43-b3cf-af80730b9cee
 exl-id: 43e3b24e-e8bc-407c-b788-5ab85e459a90
 ---

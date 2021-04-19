@@ -5,7 +5,7 @@ seo-description: Create a filter that spans different reports to see how a parti
 seo-title: Add Sticky Filter
 solution: Experience Cloud,Analytics
 title: Add Sticky Filter
-topic: Reports,Metrics
+topic-fix: Reports,Metrics
 uuid: f3935c8a-811d-4080-8468-b8850202dd1e
 exl-id: 5f6f725a-a1ae-40c2-abe0-87ebabdc582a
 ---

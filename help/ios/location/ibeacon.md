@@ -4,7 +4,7 @@ seo-description: iBeacon tracking allows you to measure and target micro locatio
 seo-title: iBeacon tracking
 solution: Experience Cloud,Analytics
 title: iBeacon tracking
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 390883db-027e-4d12-8a16-86d514579db1
 exl-id: 7232e51d-5695-43ad-8d67-fb3cad70e8f2
 ---

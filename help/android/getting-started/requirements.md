@@ -4,7 +4,7 @@ seo-description: Before configuring a report suite and collecting Android app da
 seo-title: Before You Start
 solution: Experience Cloud,Analytics
 title: Before You Start
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 0ca9e937-8d40-4570-9dbf-9aecc6ecedf6
 exl-id: e9c0fd94-b61d-4f56-97b8-f71aac096c93
 ---

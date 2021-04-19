@@ -5,7 +5,7 @@ seo-description: The Retention report (formerly known as First Launch Cohorts) i
 seo-title: Retention report
 solution: Experience Cloud,Analytics
 title: Retention report
-topic: Reports,Metrics
+topic-fix: Reports,Metrics
 uuid: e7639e7f-c9ed-4b19-9ac5-b36774ea9dd6
 exl-id: de68f00a-5de0-4e9a-9255-207a1a44df6e
 ---

@@ -5,7 +5,7 @@ seo-description: This information helps you use the Android SDK with Adobe Analy
 seo-title: Analytics overview
 solution: Experience Cloud,Analytics
 title: Analytics overview
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: cc9fa1d9-bc48-4d03-854a-f7b263580a91
 exl-id: ed9f55e6-f3ab-4c1e-9a2f-1ee67a7b4c03
 ---

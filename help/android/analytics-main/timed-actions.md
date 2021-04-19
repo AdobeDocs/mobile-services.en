@@ -4,7 +4,7 @@ seo-description: Timed actions allow you to measure the in-app time and total ti
 seo-title: Timed Actions
 solution: Experience Cloud,Analytics
 title: Timed Actions
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 5a48a580-b942-4e49-9f1b-078fea7fccdb
 exl-id: d9851440-6e65-4d89-a6b3-81c8abd2bf06
 ---

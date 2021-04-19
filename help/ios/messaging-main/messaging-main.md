@@ -4,7 +4,7 @@ seo-description: This information helps you use messaging in your iOS apps.
 seo-title: Messaging
 solution: Experience Cloud,Analytics
 title: Messaging
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: c6475ab4-015d-46b0-af28-5d0df3f4459e
 exl-id: e7be8760-6daf-42c8-9c3d-1de29d62ad0b
 ---

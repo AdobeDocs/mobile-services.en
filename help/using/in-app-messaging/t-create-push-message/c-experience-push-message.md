@@ -5,7 +5,7 @@ seo-description: You can configure experience options for push messages and rich
 seo-title: Experience  Push Message
 solution: Experience Cloud,Analytics
 title: Experience  Push Message
-topic: Metrics
+topic-fix: Metrics
 uuid: 1a8baf3e-9fea-452c-b0fc-4ba8ac270861
 exl-id: 9158487e-6ac5-4f17-a8ff-15de0360ab60
 ---

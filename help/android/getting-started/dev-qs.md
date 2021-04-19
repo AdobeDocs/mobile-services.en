@@ -5,7 +5,7 @@ seo-description: This information helps you implement the Android library and co
 seo-title: Core Implementation and Lifecycle
 solution: Experience Cloud,Analytics
 title: Core Implementation and Lifecycle
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: af4d11ac-8245-46a0-9b3a-4a0a29cfbbb2
 exl-id: 67aba85a-42a0-473a-bb05-e5fcb35263d9
 ---

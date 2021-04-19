@@ -4,7 +4,7 @@ seo-description: You can deliver in-app messages that are triggered from any ana
 seo-title: In-App Messaging
 solution: Experience Cloud,Analytics
 title: In-App Messaging
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 351ee3d2-80b9-4f2d-9696-21f274d89f5a
 exl-id: ca9414d1-86e6-4bb2-a2d6-57df37df2403
 ---

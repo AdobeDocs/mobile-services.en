@@ -4,7 +4,7 @@ seo-description: List of Audience Manager methods provided by the Universal Wind
 seo-title: Audience Manager methods
 solution: Experience Cloud,Analytics
 title: Audience Manager methods
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: efbe8f33-7f53-40a6-b7aa-a36ac718c047
 exl-id: a7b4001d-d90f-4a8a-a801-d66e56ea43b5
 ---

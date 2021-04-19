@@ -4,7 +4,7 @@ seo-description: Actions are the events that occur in your Android app that you 
 seo-title: Track app actions
 solution: Experience Cloud,Analytics
 title: Track app actions
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: fe01c1df-f6bb-4b32-b3ef-959d2c724af6
 exl-id: 495a6aa8-781d-4499-ad46-e19d57cccf40
 ---

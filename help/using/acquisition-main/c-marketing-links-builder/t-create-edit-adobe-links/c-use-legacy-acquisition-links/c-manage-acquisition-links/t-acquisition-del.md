@@ -5,7 +5,7 @@ seo-description: You can delete one or more acquisition links when they are no l
 seo-title: Delete Acquisition links
 solution: Experience Cloud,Analytics
 title: Delete Acquisition links
-topic: Metrics
+topic-fix: Metrics
 uuid: e7362348-ca24-4f1c-b37f-eca6d2b0da6d
 exl-id: 4c007ec6-40ba-468f-8bfc-0930a04c59c1
 ---

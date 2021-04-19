@@ -4,7 +4,7 @@ seo-description: This information helps you implement the iOS library and collec
 seo-title: Core Implementation and Lifecycle
 solution: Experience Cloud,Analytics
 title: Core Implementation and Lifecycle
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 96d06325-e424-4770-8659-4b5431318ee3
 exl-id: 5fb2d534-c2e8-480a-aaee-0e71dd55feb6
 ---

@@ -5,7 +5,7 @@ seo-description: Android widgets can be tracked by using the same methods as you
 seo-title: Android widgets
 solution: Experience Cloud,Analytics
 title: Android widgets
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 1a3718ff-967b-4c8e-ae0b-ba15bddbda0a
 exl-id: 229ea987-256a-45f4-a5ca-afe17dd596b8
 ---

@@ -5,7 +5,7 @@ seo-description: View a list of your in-app and push messages with details about
 seo-title: Manage Messages
 solution: Experience Cloud,Analytics
 title: Manage Messages
-topic: Metrics
+topic-fix: Metrics
 uuid: 4d934ede-0c68-4dd5-ba37-9caf727cc717
 exl-id: 96436104-fe5d-4f50-80a9-9b6ad7401de2
 ---

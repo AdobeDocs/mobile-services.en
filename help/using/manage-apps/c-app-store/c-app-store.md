@@ -5,7 +5,7 @@ seo-description: The appFigures data connector integration combines the power of
 seo-title: App Store
 solution: Experience Cloud,Analytics
 title: App Store
-topic: Metrics
+topic-fix: Metrics
 uuid: a194364d-faaf-4995-befd-cf48f9c1f11b
 exl-id: 27c65823-49ca-4bd4-b929-ba3df86e0a13
 ---

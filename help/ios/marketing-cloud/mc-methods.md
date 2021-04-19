@@ -4,7 +4,7 @@ seo-description: Here are the Adobe Experience Platform Identity Service methods
 seo-title: Adobe Experience Platform Identity Service methods
 solution: Experience Cloud,Analytics
 title: Adobe Experience Platform Identity Service methods
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: cdd307bc-8b7d-47a8-b77e-00902b9e2968
 exl-id: 82a246fc-f679-4fa5-b9c0-dc909a7e7d93
 ---

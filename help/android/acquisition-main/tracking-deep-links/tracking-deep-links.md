@@ -5,7 +5,7 @@ seo-description: You can use this information to track deep and deferred deep li
 seo-title: Tracking Deep Links in Adobe Mobile Services
 solution: Experience Cloud,Analytics
 title: Tracking Deep Links
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: ebb1c08c-a246-40b3-9ac6-4606a14b4c5a
 exl-id: 4f59b77d-3cac-4853-bb6b-50a403036771
 ---

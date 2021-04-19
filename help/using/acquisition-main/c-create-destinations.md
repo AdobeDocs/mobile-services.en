@@ -5,7 +5,7 @@ seo-description: Marketers can create, save, and edit link destinations, such as
 seo-title: Destinations
 solution: Experience Cloud,Analytics
 title: Destinations
-topic: Metrics
+topic-fix: Metrics
 uuid: 0e0e7d22-067c-4a59-abcb-a4826800944d
 exl-id: e30128de-5b2d-4617-a871-44fe489ea6e7
 ---

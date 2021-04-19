@@ -5,7 +5,7 @@ seo-description: You can configure the Adobe Experience Platform Identity Servic
 seo-title: Configure SDK ID Service Options
 solution: Experience Cloud,Analytics
 title: Configure SDK ID Service Options
-topic: Metrics
+topic-fix: Metrics
 uuid: e69b57f7-153a-4a95-9c1e-c07fe29dea2d
 exl-id: e44ca332-9723-4ffc-ac24-52a620f32783
 ---

@@ -5,7 +5,7 @@ seo-description: The products variable cannot be set by using processing rules. 
 seo-title: Products Variable
 solution: Experience Cloud,Analytics
 title: Products Variable
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: f4484022-cb8b-4dea-9209-5a110ba607df
 exl-id: 1d850ce1-6fd4-463e-8949-8b8cf40d8467
 ---

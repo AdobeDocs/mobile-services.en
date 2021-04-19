@@ -5,7 +5,7 @@ seo-description: The Banner Metrics report displays a sunburst visualization for
 seo-title: Banner Metrics
 solution: Experience Cloud,Analytics
 title: Banner Metrics
-topic: Metrics
+topic-fix: Metrics
 uuid: 50638c55-f10d-43d7-8d12-e48908572766
 exl-id: 0383e23f-579e-4177-922d-71f193a3c606
 ---

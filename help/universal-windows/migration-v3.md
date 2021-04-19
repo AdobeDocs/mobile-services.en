@@ -4,7 +4,7 @@ seo-description: This section describes how to migrate from the 3.x version of a
 seo-title: Migrate to 4.x
 solution: Experience Cloud,Analytics
 title: Migrate to 4.x
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: bdd6c5cd-3892-4e99-b69e-77105ad66e25
 exl-id: 68de505b-dcff-4a78-9f01-b1d103846281
 ---

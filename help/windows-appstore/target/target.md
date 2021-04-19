@@ -4,7 +4,7 @@ seo-description: Information to help you deliver targeted content within Windows
 seo-title: Target
 solution: Experience Cloud,Analytics
 title: Target
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: c57bdf85-c1a9-446d-9ec9-4a483b189522
 ---
 

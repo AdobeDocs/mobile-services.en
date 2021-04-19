@@ -4,7 +4,7 @@ seo-description: The following information helps you configure the iOS SDK, incl
 seo-title: Configuration
 solution: Experience Cloud,Analytics
 title: Configuration
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 63261b61-e70a-42be-a56f-5943173c041e
 exl-id: ff1f7fcd-1dc9-49b4-aead-46134600f3ab
 ---

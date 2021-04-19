@@ -5,7 +5,7 @@ seo-description: The View Paths report, which is based on path analysis, display
 seo-title: View Paths report
 solution: Experience Cloud,Analytics
 title: View Paths report
-topic: Reports,Metrics
+topic-fix: Reports,Metrics
 uuid: bc73edce-0cc0-4349-9a48-e0a40cbe1b67
 exl-id: 475dbe01-fa4d-433c-ac77-68f2a6972c0c
 ---

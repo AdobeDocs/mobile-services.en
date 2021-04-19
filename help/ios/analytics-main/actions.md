@@ -4,7 +4,7 @@ seo-description: Actions are the events that occur in your app that you want to 
 seo-title: Track App Actions
 solution: Experience Cloud,Analytics
 title: Track App Actions
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 62017be1-5395-4d16-bde3-4c40a2c012d4
 exl-id: ff317eff-1b8e-46e1-a305-a404979447cb
 ---

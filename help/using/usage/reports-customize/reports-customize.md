@@ -5,7 +5,7 @@ seo-description: This information helps you understand and customize the built-i
 seo-title: Customize Reports
 solution: Experience Cloud,Analytics
 title: Customize Reports
-topic: Reports,Metrics
+topic-fix: Reports,Metrics
 uuid: 39ba9af3-eaee-44b9-bea4-c8f43a0d2a6c
 exl-id: 287b12fb-96f8-4fa9-a4f4-7325e30e1797
 ---

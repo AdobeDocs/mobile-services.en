@@ -4,7 +4,7 @@ seo-description: The following table contains the iOS version string that is sen
 seo-title: iOS Device Versions
 solution: Experience Cloud,Analytics
 title: iOS Device Versions
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 8b8a9bc3-0737-4de2-9792-0b112aa4cf65
 exl-id: 9aaf2f35-4de9-47a0-8e9d-8d098dfaadef
 ---

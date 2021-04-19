@@ -4,7 +4,7 @@ seo-description: Release notes and known issues for Android SDK 4.x for Experien
 seo-title: Release Notes
 solution: Experience Cloud,Analytics
 title: Release Notes
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 16bb4de8-a216-47a8-928c-0b1e1421adcf
 exl-id: 5cc3d031-5952-4e9b-b551-9402d3c05ccb
 ---

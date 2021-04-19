@@ -4,7 +4,7 @@ seo-description: Starting with iOS 10, Apple allows you to create an extension c
 seo-title: Stand-Alone Extension Implementation
 solution: Experience Cloud,Analytics
 title: Stand-Alone Extension Implementation
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 9b47f082-b78f-4611-968d-014c32ede6bc
 exl-id: b51247b6-c4ba-4a00-9ba0-1824450ac067
 ---

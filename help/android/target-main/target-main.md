@@ -5,7 +5,7 @@ seo-description: This information helps you deliver targeted content in Android 
 seo-title: Target overview
 solution: Experience Cloud,Analytics
 title: Target overview
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 3501b76d-f83f-45eb-b56d-39e64717772e
 exl-id: 6b75528c-b808-440e-8517-3dcea6204af8
 ---

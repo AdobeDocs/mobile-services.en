@@ -5,7 +5,7 @@ seo-description: You can track and manage the data that you receive from the app
 seo-title: Managing your App
 solution: Experience Cloud,Analytics
 title: Managing your App
-topic: Metrics
+topic-fix: Metrics
 uuid: 0cc356c3-8457-40a7-8c97-7cbc68a5dc0c
 exl-id: 599fef94-c188-47f5-b9d6-25a7c8cb07bc
 ---

@@ -4,7 +4,7 @@ seo-description: Acquisition links with unique tracking codes can be generated i
 seo-title: Mobile app acquisition
 solution: Experience Cloud,Analytics
 title: Mobile app acquisition
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 5fece619-e4b8-4d06-9250-dcb66fa32ce0
 exl-id: a90dcb2f-babb-4c97-b67a-8468925ee5c8
 ---

@@ -5,7 +5,7 @@ seo-description: You can deliver targeted content in Android applications.
 seo-title: Target configuration
 solution: Experience Cloud,Analytics
 title: Target configuration
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 09fe2c9c-7b60-49c3-bb9d-36a30ce7c350
 exl-id: dbcc3114-e76b-4b18-a418-ac46a21a593e
 ---

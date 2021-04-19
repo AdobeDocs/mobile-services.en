@@ -5,7 +5,7 @@ seo-description: Android SDK 4.x for Experience Cloud Solutions allows you to me
 seo-title: Android SDK 4.x for Experience Cloud Solutions
 solution: Experience Cloud,Analytics
 title: Android SDK 4.x for Experience Cloud Solutions
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 56f1ff41-0365-41dd-bdde-245c823dff07
 exl-id: c2454e94-a9af-42f3-ab45-14f68531faab
 ---

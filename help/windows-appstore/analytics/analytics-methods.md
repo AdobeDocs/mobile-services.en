@@ -4,7 +4,7 @@ seo-description: Information to help you use the Windows 8.1 Universal App Store
 seo-title: Analytics methods
 solution: Experience Cloud,Analytics
 title: Analytics methods
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 79db105c-216c-4061-97f3-a55954995e67
 exl-id: 007bb801-55ef-4c5b-87fa-d0db42cde163
 ---

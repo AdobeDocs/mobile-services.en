@@ -5,7 +5,7 @@ seo-description: This information helps you migrate from the 3.x or 2.x version 
 seo-title: Migrating to the Android 4.x Library
 solution: Experience Cloud,Analytics
 title: Migrating to the Android 4.x Library
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 906e83bb-2faf-4aa2-ac9b-3fba6b833c7e
 exl-id: 8061c1ab-aaaf-4d4c-9bd5-b2f80b6b06a3
 ---

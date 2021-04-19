@@ -5,7 +5,7 @@ seo-description: The Technology report allows you to see the different device ty
 seo-title: Technology report
 solution: Experience Cloud,Analytics
 title: Technology report
-topic: Reports,Metrics
+topic-fix: Reports,Metrics
 uuid: 4b7322c4-8920-43cd-bb72-5a5bd515ae84
 exl-id: 767c1538-68b1-4193-bd3d-3eb80e5b36f7
 ---

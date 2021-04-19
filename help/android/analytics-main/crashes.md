@@ -4,7 +4,7 @@ seo-description: This information helps you understand how crashes are tracked a
 seo-title: Track App Crashes
 solution: Experience Cloud,Analytics
 title: Track App Crashes
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 3ab98c14-ccdf-4060-ad88-ec07c1c6bf07
 exl-id: d8d59b4e-0231-446d-9ba1-8a9809be9c61
 ---

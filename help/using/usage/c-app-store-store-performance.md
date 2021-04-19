@@ -5,7 +5,7 @@ seo-description: The App Store Overview report gives you a snapshot of your app 
 seo-title: App Store Overview Report
 solution: Experience Cloud,Analytics
 title: App Store Overview Report
-topic: Metrics
+topic-fix: Metrics
 uuid: ac066f31-ec4b-4b67-b839-780c2cd1574e
 exl-id: da8663d6-9da8-440b-b7b8-06ff11e74b9f
 ---

@@ -4,7 +4,7 @@ seo-description: Event serialization is not supported by processing rules. In th
 seo-title: Event Serialization
 solution: Experience Cloud,Analytics
 title: Event Serialization
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 19a27df4-0998-403d-800c-26ff61149208
 exl-id: c34331a4-bfe2-4955-807b-92a3303f8d81
 ---

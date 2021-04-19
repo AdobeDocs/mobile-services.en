@@ -4,7 +4,7 @@ seo-description: This Extensions provides you a much easier way to add the refer
 seo-title: Windows Visual Studio extensions for Experience Cloud Solutions 4.x SDK
 solution: Experience Cloud,Analytics
 title: Windows Visual Studio extensions for Experience Cloud Solutions 4.x SDK
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: e48faf54-8b08-4224-9d80-e553a983129e
 exl-id: 8ed91dc1-8f30-4788-8471-21bb54256b0b
 ---

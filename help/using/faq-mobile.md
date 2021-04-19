@@ -5,7 +5,7 @@ seo-description: Frequently asked questions and answers for Adobe Mobile Service
 seo-title: Frequently Asked Questions
 solution: Experience Cloud,Analytics
 title: Frequently Asked Questions
-topic: Metrics
+topic-fix: Metrics
 uuid: 62a9241c-2ada-483a-a594-b023916cb0b6
 exl-id: d7dfc36e-56f0-498a-ad50-93fee90cb6ff
 ---

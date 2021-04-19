@@ -4,7 +4,7 @@ seo-description: Processing rules are used to copy the data that you send in con
 seo-title: Processing Rules and Context Data
 solution: Experience Cloud,Analytics
 title: Processing Rules and Context Data
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 51338ccd-fa52-4d9c-97c4-947a4100465d
 exl-id: a3968160-42c4-4671-b541-c14639b8a451
 ---

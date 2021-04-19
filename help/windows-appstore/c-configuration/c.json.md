@@ -4,7 +4,7 @@ seo-description: Information to help you use the ADBMobile JSON Config file.
 seo-title: ADBMobileConfig.json config file
 solution: Experience Cloud,Analytics
 title: ADBMobileConfig.json config file
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: a45b91cc-982e-4d6c-a4e4-d2e4b4fa7556
 exl-id: 520dffb8-ca47-444f-bbc9-f18413ddeb05
 ---

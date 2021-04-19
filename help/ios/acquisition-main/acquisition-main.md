@@ -4,7 +4,7 @@ seo-description: This information helps you use acquisition tracking links in yo
 seo-title: Acquisition
 solution: Experience Cloud,Analytics
 title: Acquisition
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: e22d2785-58f1-4841-9163-912c5e0f5d61
 exl-id: 35c83dc9-2a66-46b3-9dce-81006855319d
 ---

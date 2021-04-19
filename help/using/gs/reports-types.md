@@ -5,7 +5,7 @@ seo-description: When customizing reports, the broad flexibility might create so
 seo-title: Report Types
 solution: Experience Cloud,Analytics
 title: Report Types
-topic: Reports,Metrics
+topic-fix: Reports,Metrics
 uuid: 8747b11e-31b1-47bc-ad55-db5ab4ef7078
 exl-id: ba7af2f5-8c84-4c49-a793-5fbaa8947566
 ---

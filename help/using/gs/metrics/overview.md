@@ -5,7 +5,7 @@ seo-description: You can display the key performance metrics of the apps that yo
 seo-title: Display Mobile Metrics
 solution: Experience Cloud,Analytics
 title: Display Mobile Metrics
-topic: Metrics
+topic-fix: Metrics
 uuid: 57db0b77-6b0a-4a0c-9aad-0731275233fd
 exl-id: aab6448d-4362-4c75-949a-7a519da76606
 ---

@@ -4,7 +4,7 @@ seo-description: List of Audience Manager methods provided by the Windows 8.1 Un
 seo-title: Audience Manager methods
 solution: Experience Cloud,Analytics
 title: Audience Manager methods
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: e39c9c3e-fd53-4b46-8fff-88101a064a9c
 exl-id: b10d7274-0fc6-4822-a40b-1192b71592b9
 ---

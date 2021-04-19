@@ -5,7 +5,7 @@ seo-description: This plug-in allows you to send Android AppMeasurement calls fr
 seo-title: PhoneGap plug-in overview
 solution: Experience Cloud,Analytics
 title: PhoneGap plug-in overview
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: c5c32357-d8df-458a-b0e8-e0c56040241d
 exl-id: ecd756ca-e333-4d28-bd1e-a75ffc6ebe22
 ---

@@ -5,7 +5,7 @@ seo-description: The Versions report is an over-time report that displays inform
 seo-title: Versions report
 solution: Experience Cloud,Analytics
 title: Versions report
-topic: Reports,Metrics
+topic-fix: Reports,Metrics
 uuid: 67e759d3-7e4f-4985-9e74-61c782f0fbb5
 exl-id: c29bc404-892e-413f-a9e2-0c16bdef032d
 ---

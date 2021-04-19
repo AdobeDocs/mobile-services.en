@@ -5,7 +5,7 @@ seo-description: You can create and manage points of interest, which allow you t
 seo-title: Manage Points of Interest
 solution: Experience Cloud,Analytics
 title: Manage Points of Interest
-topic: Metrics
+topic-fix: Metrics
 uuid: 7b362534-54fb-43a3-b6b2-dfc8f45ff7c6
 exl-id: 9598b06b-fb6a-436c-811c-f74015cc2ab0
 ---

@@ -4,7 +4,7 @@ seo-description: Complete these steps to configure a report suite to collect iOS
 seo-title: Before You Start
 solution: Experience Cloud,Analytics
 title: Before You Start
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 04133f68-3618-41fd-8a13-aec5b6f04df6
 exl-id: 83da7cf5-3211-484d-bfe8-7b3b4999eea2
 ---

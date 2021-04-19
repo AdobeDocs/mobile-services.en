@@ -5,7 +5,7 @@ seo-description: After acquisition links are created, these links can be deleted
 seo-title: Manage Acquisition Links
 solution: Experience Cloud,Analytics
 title: Manage Acquisition Links
-topic: Metrics
+topic-fix: Metrics
 uuid: 06b35bbc-7cd6-4375-aa17-204edab40e62
 ---
 

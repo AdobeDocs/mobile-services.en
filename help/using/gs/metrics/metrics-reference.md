@@ -5,7 +5,7 @@ seo-description: Here is the reference information for the default mobile metric
 seo-title: Mobile Metrics and Dimensions Reference
 solution: Experience Cloud,Analytics
 title: Mobile Metrics and Dimensions Reference
-topic: Metrics
+topic-fix: Metrics
 uuid: 96170ae7-8553-4f3e-ae01-65e5b664adf4
 exl-id: ddfbf11e-a4c3-4d59-92b3-1d192dc3e7cd
 ---

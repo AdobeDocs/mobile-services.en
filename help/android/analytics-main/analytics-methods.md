@@ -5,7 +5,7 @@ seo-description: Here is a list of Adobe Analytics methods that are provided by 
 seo-title: Analytics Methods
 solution: Experience Cloud,Analytics
 title: Analytics Methods
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: ac7c640e-9dcc-4724-b561-019cc025d5a7
 exl-id: 7914d13e-40a2-4ae2-b759-2660817c2058
 ---

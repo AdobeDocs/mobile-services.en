@@ -4,7 +4,7 @@ seo-description: This information helps you work with App Transport Security (AT
 seo-title: App Transport Security
 solution: Experience Cloud,Analytics
 title: App Transport Security
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: e9ee13cf-9802-492e-8b11-95f028e34e61
 exl-id: 2fe94e76-06d6-4ad1-95ba-193ae3df4d58
 ---

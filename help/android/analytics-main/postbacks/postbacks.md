@@ -5,7 +5,7 @@ seo-description: Postbacks allow you to send data that is collected by the SDK t
 seo-title: Postbacks
 solution: Experience Cloud,Analytics
 title: Postbacks overview
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 8bfd4374-2767-421d-891d-e1e9a99b6977
 exl-id: 318f6eab-ff71-4bfe-8eb7-51a35380b992
 ---

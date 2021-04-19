@@ -5,7 +5,7 @@ seo-description: You can measure different metrics by using Adobe Mobile and col
 seo-title: Mobile Metrics
 solution: Experience Cloud,Analytics
 title: Mobile Metrics
-topic: Metrics
+topic-fix: Metrics
 uuid: c4457f4a-9d1c-4fe9-ad4a-9eb2e37feab7
 exl-id: 13912d5e-9813-4f8f-80d5-1f3cfcdd6aa3
 ---

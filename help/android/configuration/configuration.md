@@ -4,7 +4,7 @@ seo-description: The following information helps you configure the Android SDK, 
 seo-title: Configuration overview
 solution: Experience Cloud,Analytics
 title: Configuration overview
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 207d6eae-7fc5-449d-b92b-c2d83e8e82b4
 exl-id: 6e16f15a-71c9-4f0d-ba45-f6c22e05b9c2
 ---

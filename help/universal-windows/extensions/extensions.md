@@ -4,7 +4,7 @@ seo-description: Information to help you use extensions with the Universal Windo
 seo-title: Extensions
 solution: Experience Cloud,Analytics
 title: Extensions
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 94bde8cf-f9d5-4374-a9a1-c2c3509cdbb7
 ---
 

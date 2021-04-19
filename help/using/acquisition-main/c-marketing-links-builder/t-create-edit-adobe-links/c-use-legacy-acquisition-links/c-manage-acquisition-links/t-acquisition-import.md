@@ -5,7 +5,7 @@ seo-description: Import or export acquisition links if you would rather work wit
 seo-title: Import or export Acquisition links
 solution: Experience Cloud,Analytics
 title: Import or export Acquisition links
-topic: Metrics
+topic-fix: Metrics
 uuid: 94ea008a-473a-40c3-9fa8-a94eb0208c8f
 exl-id: 9be2377e-7f46-44f7-9c5e-1c20c617276d
 ---

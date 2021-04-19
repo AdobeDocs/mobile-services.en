@@ -4,7 +4,7 @@ seo-description: Universal Windows Platform SDK 4.x for Experience Cloud Solutio
 seo-title: Universal Windows Platform SDK 4.x for Experience Cloud Solutions
 solution: Experience Cloud,Analytics
 title: Universal Windows Platform SDK 4.x for Experience Cloud Solutions
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 23a5bc0a-54f0-42a7-af1e-c8cbb509dfce
 exl-id: 3ae13dfc-a5ad-46d9-90e1-1e5e11b39f42
 ---

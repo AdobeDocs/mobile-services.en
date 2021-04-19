@@ -4,7 +4,7 @@ seo-description: This information helps you migrate from the versions 3.x or 2.x
 seo-title: Migrating to the 4.x iOS library
 solution: Experience Cloud,Analytics
 title: Migrating to the 4.x iOS library
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 5668972b-f355-4e03-9df0-8c82ddf6809b
 exl-id: a58067e0-b6f4-4900-ba3f-7256d9259420
 ---

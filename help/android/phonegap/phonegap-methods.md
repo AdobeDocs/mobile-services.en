@@ -5,7 +5,7 @@ seo-description: You can use iOS PhoneGap Plug-in methods to complete a variety 
 seo-title: PhoneGap plug-in methods
 solution: Experience Cloud,Analytics
 title: PhoneGap plug-in methods
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: bc3db9ce-81b7-45ec-88aa-6020c1db5d9c
 exl-id: 4e6cf200-c826-4b23-87cf-4b8e1e691981
 ---

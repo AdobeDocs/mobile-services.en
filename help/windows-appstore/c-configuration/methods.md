@@ -4,7 +4,7 @@ seo-description: Classes and methods provided by the Windows 8.1 Universal App S
 seo-title: SDK methods
 solution: Experience Cloud,Analytics
 title: SDK methods
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 0f558ff4-73d3-4439-9d51-62fbd74d2cea
 exl-id: c328fd79-6e10-43b7-9d08-8da395098b60
 ---

@@ -5,7 +5,7 @@ seo-description: Here is an example of the products variable with Merchandising 
 seo-title: Products Variable with Merchandising eVars and Product-Specific Events
 solution: Experience Cloud,Analytics
 title: Products Variable with Merchandising eVars and Product-Specific Events
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 64f822a0-6ccf-48e7-8886-31b93d8198a3
 exl-id: 2ede6341-3068-4423-a509-c0ec3a2db5e8
 ---

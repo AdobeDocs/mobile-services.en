@@ -5,7 +5,7 @@ seo-description: The Location Overview report lets you see the different countri
 seo-title: Overview (Location)
 solution: Experience Cloud,Analytics
 title: Overview (Location)
-topic: Reports,Metrics
+topic-fix: Reports,Metrics
 uuid: a701abc3-001b-4015-843f-5fb2c6c80d17
 exl-id: 9a9f4f64-251f-48d4-a838-af14a357c575
 ---

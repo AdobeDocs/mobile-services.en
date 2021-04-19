@@ -4,7 +4,7 @@ seo-description: The following information helps you get started with the iOS SD
 seo-title: Getting started overview
 solution: Experience Cloud,Analytics
 title: Getting started overview
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: a2b9baad-b959-4b9a-893d-99c0f4072e8d
 exl-id: bf1c059d-3ca7-4d77-8acb-597350c03433
 ---

@@ -5,7 +5,7 @@ seo-description: The Funnel report identifies where customers abandoned a market
 seo-title: Funnel report
 solution: Experience Cloud,Analytics
 title: Funnel report
-topic: Reports,Metrics
+topic-fix: Reports,Metrics
 uuid: 268b4ab9-2e29-4423-9f79-ad93f5231ede
 exl-id: 43f9d0aa-0651-42c6-85ea-307ed253cf8d
 ---

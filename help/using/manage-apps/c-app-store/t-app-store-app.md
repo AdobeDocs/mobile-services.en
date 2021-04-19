@@ -5,7 +5,7 @@ seo-description: You can add an app from the Apple App Store or from Google Play
 seo-title: Add an App from an App Store
 solution: Experience Cloud,Analytics
 title: Add an App from an App Store
-topic: Metrics
+topic-fix: Metrics
 uuid: 94c8a924-5156-4742-8b5b-88d9ea13bfed
 exl-id: 874a132b-42d3-4074-8f14-22310fa60ec0
 ---

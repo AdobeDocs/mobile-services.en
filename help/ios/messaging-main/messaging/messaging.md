@@ -4,7 +4,7 @@ seo-description: This information helps you use in-app messaging in your iOS app
 seo-title: In-App Messaging
 solution: Experience Cloud,Analytics
 title: In-App Messaging
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 21fa6a94-bb7f-4c78-843b-a50f1974db22
 exl-id: 70b0ade4-dcd1-4e00-9800-352f11c4001d
 ---

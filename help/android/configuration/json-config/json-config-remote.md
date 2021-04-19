@@ -4,7 +4,7 @@ seo-description: You can load a different ADBMobile JSON config file when the ap
 seo-title: Override the ADBMobile JSON Config Path
 solution: Experience Cloud,Analytics
 title: Override the ADBMobile JSON Config Path
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 6872a5d7-0c5a-4fdc-b7bf-ad1534763a6a
 exl-id: 6ca8e264-af79-4734-aeb9-824582980953
 ---

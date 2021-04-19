@@ -4,7 +4,7 @@ seo-description: Starting in Android SDK version 4.5, a new Android extension wa
 seo-title: Wearables overview
 solution: Experience Cloud,Analytics
 title: Wearables overview
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: f9a5d692-0ef6-4cdf-831e-e50be291f083
 exl-id: 5b390aa9-5bbd-4f69-9b09-49b9900fa550
 ---

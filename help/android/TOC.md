@@ -1,5 +1,4 @@
 ---
-product: mobile-services
 audience: end-user
 user-guide-title: Mobile Services Android Guide
 breadcrumb-title: Android Guide

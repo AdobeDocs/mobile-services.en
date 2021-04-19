@@ -5,7 +5,7 @@ seo-description: This information helps you customize the built-in reports by ad
 seo-title: Add Series (Metrics) to Reports
 solution: Experience Cloud,Analytics
 title: Add Series (Metrics) to Reports
-topic: Reports,Metrics
+topic-fix: Reports,Metrics
 uuid: 84fdfb1f-70e6-4c02-9b3b-526e9c924f74
 exl-id: 1b1356c6-7f62-4b88-996a-09ed33b19c9d
 ---

@@ -5,7 +5,7 @@ seo-description: You must complete these tasks before configuring Push Messaging
 seo-title: Prerequisites to Enable Push Messaging
 solution: Experience Cloud,Analytics
 title: Prerequisites to Enable Push Messaging
-topic: Metrics
+topic-fix: Metrics
 uuid: 194e6e07-b794-4152-a838-a4125c3292d4
 exl-id: 543155a4-f687-48a6-8690-5c8da8490c62
 ---

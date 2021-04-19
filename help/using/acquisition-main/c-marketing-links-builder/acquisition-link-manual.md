@@ -5,7 +5,7 @@ seo-description: You can create Marketing Links to acquire new mobile app users 
 seo-title: Manually create Acquisition links
 solution: Experience Cloud,Analytics
 title: Manually create Acquisition links
-topic: Metrics
+topic-fix: Metrics
 uuid: d7709203-f793-4982-adaa-9c3c914aca2b
 exl-id: aef9fe3e-32dc-4ec0-9eda-f64cc5e486a3
 ---

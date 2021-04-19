@@ -5,7 +5,7 @@ seo-description: This information helps you customize the built-in reports by ad
 seo-title: Add Filters to Reports
 solution: Experience Cloud,Analytics
 title: Add Filters to Reports
-topic: Reports,Metrics
+topic-fix: Reports,Metrics
 uuid: 19c395cc-2e07-4588-825b-f2f8b10a87c1
 exl-id: eb0589e9-668e-42d7-8f7a-00d7f0a2e3ff
 ---

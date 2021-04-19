@@ -4,7 +4,7 @@ seo-description: Adobe Mobile and the Adobe Mobile SDK allow you to send push me
 seo-title: Push Messaging
 solution: Experience Cloud,Analytics
 title: Push Messaging
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 729d4010-3733-4dff-b188-ad45bd3e7cc4
 exl-id: 4472e0b9-1d00-4e1a-8653-f3976b74c078
 ---

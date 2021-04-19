@@ -5,7 +5,7 @@ seo-description: In the Adobe Mobile Services UI, you can schedule a push messag
 seo-title: Schedule  Push Message
 solution: Experience Cloud,Analytics
 title: Schedule  Push Message
-topic: Metrics
+topic-fix: Metrics
 uuid: 6810e27a-016f-4286-8fe2-9972d85fa326
 exl-id: 36f263a0-4aad-423e-bb78-9c532c98df19
 ---

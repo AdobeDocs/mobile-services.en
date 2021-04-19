@@ -4,7 +4,7 @@ seo-description: States are the different screens or views in your application. 
 seo-title: Track App States
 solution: Experience Cloud,Analytics
 title: Track App States
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 12cca4eb-1f15-4cec-a58f-76b69eaff99d
 exl-id: 1b7d2fbb-d2df-4063-b923-e59fa3582830
 ---

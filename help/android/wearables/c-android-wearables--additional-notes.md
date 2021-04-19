@@ -4,7 +4,7 @@ seo-description: Here is some information to help you configure the Android exte
 seo-title: Android Wearables  Additional Notes
 solution: Experience Cloud,Analytics
 title: Android Wearables  Additional Notes
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 3bcf352b-4d46-4ab3-81ec-c27e86fe9be3
 exl-id: ae8cf2d1-d2b0-456b-bbd3-3980e00bbc84
 ---

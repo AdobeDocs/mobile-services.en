@@ -4,7 +4,7 @@ seo-description: Hit batching allows applications that have offline tracking ena
 seo-title: Hit batching
 solution: Experience Cloud,Analytics
 title: Hit batching
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 3dda7372-0695-4cb7-b779-6abca2d6e0d9
 exl-id: af21f435-13cb-4353-9fbb-c99274bce411
 ---

@@ -4,7 +4,7 @@ seo-description: Here is a list of TVJS methods that are provided by the tvOS li
 seo-title: TVJS Methods
 solution: Experience Cloud,Analytics
 title: TVJS Methods
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: a7bfa85a-0d6e-4f51-9a9e-70429c2a9806
 exl-id: 4e0c6a29-953d-49fc-b44f-533dd393ffb1
 ---

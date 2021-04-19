@@ -5,7 +5,7 @@ seo-description: This information helps you use the Android SDK with the Adobe E
 seo-title: Experience Cloud overivew
 solution: Experience Cloud,Analytics
 title: Experience Cloud overview
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: dbf6e019-8707-42e7-97b8-e18a8a7d5e2c
 exl-id: 660187ab-c744-4aef-aea1-ede61d08897c
 ---

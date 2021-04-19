@@ -4,7 +4,7 @@ seo-description: This section describes how to migrate from the 3.x version of a
 seo-title: Migrate to the 4.x SDKs
 solution: Experience Cloud,Analytics
 title: Migrate to the 4.x SDKs
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: e0fe3b7b-cda5-4a91-834c-2c7e17a501a3
 exl-id: d6dc34f2-61b7-4026-a66a-19284e21e69c
 ---

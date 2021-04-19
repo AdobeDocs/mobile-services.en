@@ -5,7 +5,7 @@ seo-description: In the Manage Link Destinations page, you can create, edit, arc
 seo-title: Create and Manage Link Destinations
 solution: Experience Cloud,Analytics
 title: Create and Manage Link Destinations
-topic: Metrics
+topic-fix: Metrics
 uuid: 43930e3a-6a11-40c6-8a61-6732a673dac7
 exl-id: 53e9f970-e53c-4c0d-9214-abb01a9b144b
 ---

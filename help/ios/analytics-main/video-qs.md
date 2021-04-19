@@ -4,7 +4,7 @@ seo-description: Here is some information about measuring video on iOS by using 
 seo-title: Video Analytics
 solution: Experience Cloud,Analytics
 title: Video Analytics
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: d75fa415-78f6-4f50-a563-76949f040138
 exl-id: d4d11ca0-1280-49db-8983-5b6d83856482
 ---

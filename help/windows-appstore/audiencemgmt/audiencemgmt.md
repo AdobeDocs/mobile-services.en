@@ -4,7 +4,7 @@ seo-description: Information to help you send signals and retrieve visitor segme
 seo-title: Audience Manager
 solution: Experience Cloud,Analytics
 title: Audience Manager
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: fadc3296-c17c-4732-9b75-a6fb4d33a282
 ---
 

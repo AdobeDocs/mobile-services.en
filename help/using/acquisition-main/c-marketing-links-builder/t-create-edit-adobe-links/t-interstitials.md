@@ -5,7 +5,7 @@ seo-description: You can route users to a destination depending on whether they 
 seo-title: Interstitials
 solution: Experience Cloud,Analytics
 title: Interstitials
-topic: Metrics
+topic-fix: Metrics
 uuid: 7dce8ab2-2a5d-4384-ac1e-e31dfaa33654
 exl-id: b6d4588f-4f28-4c1b-9291-f4b9154d84f7
 ---

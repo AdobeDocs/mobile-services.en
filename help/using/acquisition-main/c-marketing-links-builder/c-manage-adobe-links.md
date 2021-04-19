@@ -5,7 +5,7 @@ seo-description: You can use the Marketing Links page to create, use, and archiv
 seo-title: Manage Marketing Links
 solution: Experience Cloud,Analytics
 title: Manage Marketing Links
-topic: Metrics
+topic-fix: Metrics
 uuid: 98ac3520-89ed-4513-83f6-120dda9d0157
 exl-id: 678c18fe-b282-4eab-a248-e00dfd53cecd
 ---

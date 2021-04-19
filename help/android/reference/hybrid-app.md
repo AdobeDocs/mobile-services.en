@@ -4,7 +4,7 @@ seo-description: If your app opens mobile web content, ensure that visitors are 
 seo-title: Visitor Tracking between an app and mobile web
 solution: Experience Cloud,Analytics
 title: Visitor Tracking between an app and mobile web
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 073572e4-4c55-4b27-b4a7-e4349ccde7bf
 exl-id: 7ca98572-138d-48f8-aa2a-d376eebb0b2c
 ---

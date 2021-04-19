@@ -4,7 +4,7 @@ seo-description: Definition and source code examples for the Postbacks feature.
 seo-title: Postback Example
 solution: Experience Cloud,Analytics
 title: Postback Example
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 809c5646-7a80-40df-984b-0af89d854259
 exl-id: 3ec5abf1-a406-48b6-91b1-fbcb0a9094ee
 ---

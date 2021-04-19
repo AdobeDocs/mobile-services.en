@@ -5,7 +5,7 @@ seo-description: The Social Sharing report displays a sunburst visualization for
 seo-title: Social Sharing
 solution: Experience Cloud,Analytics
 title: Social Sharing
-topic: Metrics
+topic-fix: Metrics
 uuid: 900e58aa-c1d3-4590-af44-df67575214a4
 exl-id: 3f396c6d-dae4-4419-84fd-884a9e87dab1
 ---

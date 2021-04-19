@@ -4,7 +4,7 @@ seo-description: This information helps you implement Apple TV with tvOS.
 seo-title: Apple TV Implementation with tvOS
 solution: Experience Cloud,Analytics
 title: Apple TV Implementation with tvOS
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: d1571ea2-a5de-4b96-a527-72abbf51fab8
 exl-id: 35b7f02d-ae48-4c6f-9a3a-6d106a1026ad
 ---

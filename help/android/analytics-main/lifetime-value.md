@@ -4,7 +4,7 @@ seo-description: The lifetime value allows you to measure and target on a lifeti
 seo-title: Visitor Lifetime Value
 solution: Experience Cloud,Analytics
 title: Visitor Lifetime Value
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: ba0308de-282e-46f9-a14c-19fb6d5c363e
 exl-id: 93c6d711-c7c0-4fca-93b2-6a6fc19377bd
 ---

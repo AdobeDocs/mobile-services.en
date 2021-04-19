@@ -5,7 +5,7 @@ seo-description: You can configure the SDK Acquisition options on the Manage App
 seo-title: Configure SDK Acquisition Options
 solution: Experience Cloud,Analytics
 title: Configure SDK Acquisition Options
-topic: Metrics
+topic-fix: Metrics
 uuid: 50ce51ad-39bf-4ac7-bd94-757443d11ca7
 exl-id: 72ab6777-88b5-4908-9d0f-7f68f298dad1
 ---

@@ -5,7 +5,7 @@ seo-description: You can configure audience options for in-app messages, includi
 seo-title: Audience  In-App Message
 solution: Experience Cloud,Analytics
 title: Audience  In-App Message
-topic: Metrics
+topic-fix: Metrics
 uuid: 6c815d4c-7626-4cf4-9158-3f059c79317a
 exl-id: c85f2c0d-9c88-4d5a-8247-d8a101195d3a
 ---

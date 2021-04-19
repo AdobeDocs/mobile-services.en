@@ -4,7 +4,7 @@ seo-description: List of Target methods provided by the Windows 8.1 Universal Ap
 seo-title: Target methods
 solution: Experience Cloud,Analytics
 title: Target methods
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 8c35b31c-c70b-4dba-8759-173342a301e9
 exl-id: 2db9f594-01e7-4ca8-a90e-9d12278350d0
 ---

@@ -5,7 +5,7 @@ seo-description: Hit batching allows applications to hold hits from being sent u
 seo-title: Hit Batching
 solution: Experience Cloud,Analytics
 title: Hit Batching
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: ada35be3-242b-4b2b-a828-9bf998dd58b5
 exl-id: 74147f09-52fc-46dc-b4dd-2bf60b039f6e
 ---

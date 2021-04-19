@@ -5,7 +5,7 @@ seo-description: You can define and configure audience options for push messages
 seo-title: Audience  Define and Configure Audience Segments for Push Messages
 solution: Experience Cloud,Analytics
 title: Audience  Define and Configure Audience Segments for Push Messages
-topic: Metrics
+topic-fix: Metrics
 uuid: efd410e7-3b6c-4cf4-a26f-b11688adc491
 exl-id: d1062a76-2e72-4649-8497-58617a7a47cb
 ---

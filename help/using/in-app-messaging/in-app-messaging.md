@@ -5,7 +5,7 @@ seo-description: Create, manage, and report on in-app and push messages.
 seo-title: Messaging
 solution: Experience Cloud,Analytics
 title: Messaging
-topic: Metrics
+topic-fix: Metrics
 uuid: e32d3e35-2d09-4ddf-8919-75dc895abcb3
 exl-id: e6d076fc-3176-4591-8388-314b936c58cd
 ---

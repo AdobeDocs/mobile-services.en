@@ -5,7 +5,7 @@ seo-description: You can configure your app to use Apple Push Notification Servi
 seo-title: Configure App to use APNS or FCM
 solution: Experience Cloud,Analytics
 title: Configure App to use APNS or FCM
-topic: Metrics
+topic-fix: Metrics
 uuid: fa411f2a-ba47-4499-bbe5-1aedef6b49ad
 exl-id: 9064e1f3-f176-4699-b1e6-90f29e1af0d3
 ---

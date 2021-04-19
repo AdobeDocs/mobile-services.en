@@ -5,7 +5,7 @@ seo-description: You can use this information to help you understand postbacks a
 seo-title: Postbacks Example
 solution: Experience Cloud,Analytics
 title: Postbacks Example
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 8010cd00-d42b-4e16-8403-692fab2550f1
 exl-id: 2ff41066-e2ee-425f-8aff-e5e3f3e5f0f5
 ---

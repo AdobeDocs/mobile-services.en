@@ -1,6 +1,6 @@
 ---
 cloud: Experience Cloud
-product: mobile-services
+product: experience cloud
 solution: Experience Cloud Services
 type: Documentation
 git-repo: https://github.com/AdobeDocs/mobile-services.en

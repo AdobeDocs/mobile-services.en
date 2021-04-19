@@ -5,7 +5,7 @@ seo-description: You can use the Link Destinations page to edit, archive, unarch
 seo-title: Manage Link Destinations
 solution: Experience Cloud,Analytics
 title: Manage Link Destinations
-topic: Metrics
+topic-fix: Metrics
 uuid: 3a38d40d-b4c7-4f9f-aa6e-979613faaba2
 exl-id: 5d2ab0db-6371-434e-bf92-6013e78c8d8f
 ---

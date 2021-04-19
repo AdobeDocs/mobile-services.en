@@ -5,7 +5,7 @@ seo-description: This topic provides information about how to troubleshoot issue
 seo-title: Troubleshoot Acquisition testing
 solution: Experience Cloud,Analytics
 title: Troubleshoot Acquisition testing
-topic: Developer and implementation
+topic-fix: Developer and implementation
 exl-id: 1ed2ad89-4e89-43da-aa21-f688b4d1c0d1
 ---
 # Troubleshoot Acquisition testing {#troubleshoot-acquisition-testing}

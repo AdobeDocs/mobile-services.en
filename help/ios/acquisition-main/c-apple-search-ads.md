@@ -4,7 +4,7 @@ seo-description: The Adobe SDK leverages Apple's Search Ads App Attribution APIs
 seo-title: Apple Search Ads
 solution: Experience Cloud,Analytics
 title: Apple Search Ads
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 790080e8-067e-4bfd-a169-0027db4fdff3
 exl-id: efcdd430-f08d-4ee2-85f3-2697c3bd72db
 ---

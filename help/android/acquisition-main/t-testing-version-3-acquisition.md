@@ -5,7 +5,7 @@ seo-description: This information helps you roundtrip a version 3 acquisition ca
 seo-title: Testing Version 3 Acquisition
 solution: Experience Cloud,Analytics
 title: Testing Version 3 Acquisition
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 5e38b43d-389e-4412-99e5-3e6223b6ad28
 exl-id: 2ce78e2e-da51-4af8-a461-ec6c642a7854
 ---

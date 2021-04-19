@@ -4,7 +4,7 @@ seo-description: This information helps you deliver targeted content in iOS appl
 seo-title: Target
 solution: Experience Cloud,Analytics
 title: Target
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: c2b134bb-1c29-4617-bd9e-fa3940483361
 exl-id: 1494bf8e-a9e5-4594-a09d-903c141fdd68
 ---

@@ -4,7 +4,7 @@ seo-description: The following tables list the metrics and dimensions that can b
 seo-title: Lifecycle Metrics
 solution: Experience Cloud,Analytics
 title: Lifecycle Metrics
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: b795e383-d59b-4a3c-9e14-ffe8fb58412c
 exl-id: b51b6c41-843f-499d-9cf2-7ce96ed82fc0
 ---

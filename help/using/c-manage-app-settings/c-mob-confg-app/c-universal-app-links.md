@@ -4,7 +4,7 @@ seo-description: Universal Links (iOS) and App Links (Android) allow you to conn
 seo-title: Apple Universal Links and Android App Links
 solution: Experience Cloud,Analytics
 title: Universal Links and App Links Guide
-topic: Metrics
+topic-fix: Metrics
 uuid: 8d6441dc-4307-4454-95ea-d77ec796f918
 exl-id: 6613189f-7a14-4066-89e9-996d4fe7f128
 ---

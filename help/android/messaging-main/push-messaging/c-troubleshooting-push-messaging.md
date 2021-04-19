@@ -5,7 +5,7 @@ seo-description: This information helps you troubleshoot push messaging.
 seo-title: Troubleshoot Push Messaging
 solution: Experience Cloud,Analytics
 title: Troubleshoot Push Messaging
-topic: Metrics
+topic-fix: Metrics
 uuid: 9c4a9371-6691-4a2c-a6c1-b9f901a41599
 exl-id: 82b89f56-f43e-4b0d-80c5-5bff4013e5f7
 ---

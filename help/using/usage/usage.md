@@ -5,7 +5,7 @@ seo-description: Usage reports display average session length, daily and monthly
 seo-title: Reports
 solution: Experience Cloud,Analytics
 title: Reports
-topic: Reports,Metrics
+topic-fix: Reports,Metrics
 uuid: 2abc2bd1-dbae-4af1-9b8d-1df2f6d3a81f
 exl-id: a95dd9c9-49f3-41df-87bf-6a2ac0d46c5c
 ---

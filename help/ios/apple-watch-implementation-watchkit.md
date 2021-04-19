@@ -4,7 +4,7 @@ seo-description: Starting with WatchOS 2, your WatchKit Extensions will run on a
 seo-title: Apple Watch Implementation with WatchOS 2
 solution: Experience Cloud,Analytics
 title: Apple Watch Implementation with WatchOS 2
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: 9498467e-db5e-411e-a00e-d19841f485de
 exl-id: 9fc9b799-1081-42e4-acf3-569fdeb07aff
 ---

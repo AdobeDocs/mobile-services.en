@@ -4,7 +4,7 @@ seo-description: Geo-location helps you measure location data by using latitude 
 seo-title: Geo-Location and points of interest
 solution: Experience Cloud,Analytics
 title: Geo-Location and points of interest
-topic: Developer and implementation
+topic-fix: Developer and implementation
 uuid: b8209370-cbc4-40f9-97d8-017e2d74a377
 exl-id: e1fed35b-5ce9-48ee-ade0-b1701cf2a3a9
 ---

@@ -5,7 +5,7 @@ seo-description: You can configure schedule options for in-app messages, includi
 seo-title: Schedule  In-App Message
 solution: Experience Cloud,Analytics
 title: Schedule  In-App Message
-topic: Metrics
+topic-fix: Metrics
 uuid: d10e691b-105a-4165-a49d-d046ce250acd
 exl-id: bd7103ff-f14f-436b-a6c4-c477535cffe2
 ---
