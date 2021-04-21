@@ -1,8 +1,6 @@
 ---
-description: null
+description: Information about Enumerations
 keywords: Unity
-seo-description: null
-seo-title: Enumerations
 solution: Experience Cloud
 title: Enumerations
 uuid: 7109cd0b-554f-4c4a-9acc-4b60812fb747

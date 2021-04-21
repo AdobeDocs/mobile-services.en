@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Developer quick start
+description: Developer quick start article
 solution: Experience Cloud,Analytics
 title: Developer quick start
 topic-fix: Developer and implementation

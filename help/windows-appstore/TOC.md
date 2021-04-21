@@ -1,5 +1,4 @@
 ---
-product: mobile-services
 audience: end-user
 user-guide-title: Mobile Services Windows 8.1 Universal App Store SDK
 breadcrumb-title: Windows 8.1 Universal App Store SDK

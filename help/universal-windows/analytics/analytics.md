@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Analytics
+description: After you add the library to your project, you can make any of the Analytics method calls anywhere in your app.
 solution: Experience Cloud,Analytics
 title: Analytics
 topic-fix: Developer and implementation

@@ -1,8 +1,6 @@
 ---
-description: null
+description: Make calls to the library plug-in from your scripts.
 keywords: Unity
-seo-description: null
-seo-title: Making calls to the library
 solution: Experience Cloud
 title: Making calls to the library
 uuid: 74c30379-6cdf-4318-9db8-e14fb63aa18a

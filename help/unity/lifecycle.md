@@ -1,8 +1,6 @@
 ---
-description: null
+description: Measure metrics and dimensions that can be measured automatically by the mobile library
 keywords: Unity
-seo-description: null
-seo-title: Implement Lifecycle
 solution: Experience Cloud
 title: Implement Lifecycle
 uuid: 7ff2c194-569c-42a6-922d-dccd2aa9eb8d

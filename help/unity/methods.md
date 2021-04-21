@@ -1,8 +1,6 @@
 ---
-description: null
+description: ADBMobile.cs configuration methods
 keywords: Unity
-seo-description: null
-seo-title: ADBMobile.cs methods
 solution: Experience Cloud
 title: ADBMobile.cs methods
 uuid: af504934-febd-45d9-81e2-2a310f4c65dc
