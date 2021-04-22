@@ -12,6 +12,10 @@ exl-id: dd1e6bab-65e7-4a68-b3ec-21fb1a08aca2
 
 Here is the release notes, known issues, and hot fix information for iOS SDKs 4.x for Experience Cloud Solutions:
 
+**April 13, 2021: Version 4.21.2**
+
+* Visitor ID Service - Fixed an issue where empty advertising identifiers were synced to the Visitor ID Service.
+
 **January 13, 2021: Version 4.21.1**
 
 * General - Fixed an issue that could cause SQLite exceptions during app shut down.
