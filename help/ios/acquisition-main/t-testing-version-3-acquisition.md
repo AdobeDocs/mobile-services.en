@@ -82,20 +82,20 @@ If the mobile app is not yet in the App Store, when you create the campaign link
 
      Failed to get the response in the time that is defined by `referrerTimeout`. Increase the value and try again. You should also ensure that you opened the acquisition link before installing the app and that you are using the same network when you click the URL and open the app. 
 
-      Remember the following information:
+     Remember the following information:
 
-      * The acquisition server provides an attribution match that is based on the IP address and user-agent information that is recorded in the link click (step 6) and when the app is launched (step 7). 
+     * The acquisition server provides an attribution match that is based on the IP address and user-agent information that is recorded in the link click (step 6) and when the app is launched (step 7). 
 
         You should be on the same network when you click the URL and when you open the app. 
 
-      * By using HTTP monitoring tools, hits sent from the app can be monitored to provide verification of the acquisition attribution. 
+     * By using HTTP monitoring tools, hits sent from the app can be monitored to provide verification of the acquisition attribution. 
 
-        You should see one `/v3/<appid>/start` request and one `/v3/<appid>/end` request sent to the acquisition server. Variations in the user-agent sent might cause attribution to fail. 
+       You should see one `/v3/<appid>/start` request and one `/v3/<appid>/end` request sent to the acquisition server. Variations in the user-agent sent might cause attribution to fail. 
 
-        >[!TIP]
-        >
-        >Ensure that `https://c00.adobe.com/v3/<appid>/start` and `https://c00.adobe.com/v3/<appid>/end` have the same user-agent values. 
+       >[!TIP]
+       >
+       >Ensure that `https://c00.adobe.com/v3/<appid>/start` and `https://c00.adobe.com/v3/<appid>/end` have the same user-agent values. 
 
-      * The acquisition link and the hit from the SDK should be using the same HTTP/HTTPS protocol. 
+     * The acquisition link and the hit from the SDK should be using the same HTTP/HTTPS protocol. 
 
-        If they are using different protocols (for example, the link uses HTTP and the SDK uses HTTPS), the IP address might differ for each request (on some carriers), and the attribution might fail.
+       If they are using different protocols (for example, the link uses HTTP and the SDK uses HTTPS), the IP address might differ for each request (on some carriers), and the attribution might fail.
