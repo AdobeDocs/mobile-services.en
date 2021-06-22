@@ -64,7 +64,7 @@ cordova plugin add adobe-mobile-services
 
    To move this file, click **[!UICONTROL OK]**. 
 
-1. Right-click the `adobeMobileLibrary.jar file and select **[!UICONTROL Add as Library]**. 
+1. Right-click the `adobeMobileLibrary.jar` file and select **[!UICONTROL Add as Library]**. 
 1. Based on the requirements of your project, enter the name, level, and location for the library. 
 1. Drag the `ADBMobileConfig.json` file to your `assets` folder in the application root. 
 1. Confirm that you have selected the root application and **not** an application in an application.

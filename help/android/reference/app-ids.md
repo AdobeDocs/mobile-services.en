@@ -12,7 +12,7 @@ exl-id: 28358dd6-50dd-4ba9-9fb0-5271eae69d28
 
 The following table describes the different app identifiers that are used by the Android SDK and Adobe Mobile services.
 
- ID | Description |
+|ID | Description |
 |--- |--- |
 |ID sent with lifecycle metrics|This is a combination of the app name and the bundle version that is submitted to the app store. This value is used for the  Versions report in Adobe Mobile services, and you can filter using this value to segment by a specific release version of your app.|
 |App Store ID|This ID is assigned to your app by the app store and is provided in Adobe Mobile services when you create acquisition links.|

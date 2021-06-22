@@ -80,9 +80,11 @@ The app must be freshly installed, or have data cleared in **[!UICONTROL Setting
 
    If the broadcast is successful, you can expect a response similar to the following example:
 
-   `Broadcasting: Intent
+   ```
+   Broadcasting: Intent
    { act=com.android.vending.INSTALL_REFERRER cmp=com.adobe.adms.tests/.ReferralReceiver (has extras) }
-   Broadcast completed: result=0`
+   Broadcast completed: result=0
+   ```
 
 1. (Optional) You can enable debug logging of the SDK to obtain additional information.
 
